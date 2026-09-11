@@ -1,0 +1,1026 @@
+Transaction_ID,Customer_ID,Age,Gender,Category,Purchase_Amount,Payment_Method,Transaction_Date,Satisfaction_Score
+TXN_10000,CUST_1102,-5.0,Male,Home & Kitchen,$25.50,Credit Card,04-12-2024,
+TXN_10001,CUST_1179,22.0,MALE,Home & Kitchen,$120.00,Credit Card,14/12/2024,2.0
+TXN_10002,CUST_1092,29.0,Male,Home & Kitchen,$120.00,UPI,,2.0
+TXN_10003,CUST_1014,25.0,MALE,Electronics,50.0,PayPal,,2.0
+TXN_10004,CUST_1106,,Male,electronics,$120.00,UPI,2024-03-12,4.0
+TXN_10005,CUST_1071,41.0,Male, Clothing ,$25.50,PayPal,07/07/2024,2.0
+TXN_10006,CUST_1188,41.0,Female,Books,$25.50,Cash on Delivery,Invalid Date,1.0
+TXN_10007,CUST_1020,25.0,Male,electronics,$25.50,PayPal,04-12-2024,
+TXN_10008,CUST_1102,25.0,Male,Electronics,,Debit Card,2024-05-01,1.0
+TXN_10009,CUST_1121,22.0,Male,Beauty & Care,$15.75,UPI,08-02-2024,4.0
+TXN_10010,CUST_1210,18.0,M,Electronics,,PayPal,11-26-2024,3.0
+TXN_10011,CUST_1214,41.0,Female,,50.0,Credit Card,03-28-2024,4.0
+TXN_10012,CUST_1074,41.0,Male,Home & Kitchen,$120.00,Credit Card,04-09-2024,3.0
+TXN_10013,CUST_1202,150.0,Female,Books,$15.75,Credit Card,12-25-2024,5.0
+TXN_10014,CUST_1087,150.0,Female,electronics,$120.00,Credit Card,2024-05-31,5.0
+TXN_10015,CUST_1116,29.0,Male,Electronics,$120.00,Credit Card,2024-05-10,1.0
+TXN_10016,CUST_1099,34.0,Female,Home & Kitchen,$120.00,PayPal,29/05/2024,1.0
+TXN_10017,CUST_1103,60.0,Male,Books,$25.50,PayPal,Invalid Date,3.0
+TXN_10018,CUST_1151,41.0,Male,Home & Kitchen,$120.00,PayPal,2024-09-14,4.0
+TXN_10019,CUST_1130,22.0,Female,Electronics,$120.00,Debit Card,09/12/2024,5.0
+TXN_10020,CUST_1149,25.0,Male,Home & Kitchen,$15.75,Credit Card,10-20-2024,3.0
+TXN_10021,CUST_1052,18.0,Female,Home & Kitchen,$25.50,Credit Card,10/07/2024,4.0
+TXN_10022,CUST_1001,,Female,Home & Kitchen,$120.00,Credit Card,10-03-2024,2.0
+TXN_10023,CUST_1087,29.0,Male,Home & Kitchen,$299.00,PayPal,Invalid Date,4.0
+TXN_10024,CUST_1235,22.0,Female,Books,$25.50,Credit Card,09/11/2024,
+TXN_10025,CUST_1157,34.0,Male,Home & Kitchen,$120.00,Credit Card,22/01/2024,3.0
+TXN_10026,CUST_1037,29.0,,Electronics,$299.00,PayPal,09/09/2024,3.0
+TXN_10027,CUST_1129,25.0,Female, Clothing ,$25.50,Cash on Delivery,23/08/2024,1.0
+TXN_10028,CUST_1191,18.0,M,Electronics,$25.50,Credit Card,10/12/2024,3.0
+TXN_10029,CUST_1187,34.0,Female, Clothing ,50.0,Debit Card,18/02/2024,3.0
+TXN_10030,CUST_1020,29.0,Male, Clothing ,$120.00,Debit Card,28/02/2024,2.0
+TXN_10031,CUST_1160,41.0,Female,Electronics,$999.99,Cash on Delivery,2024-06-18,3.0
+TXN_10032,CUST_1203,29.0,,electronics,$299.00,UPI,2024-07-06,3.0
+TXN_10033,CUST_1057,41.0,Female,Electronics,$25.50,Credit Card,27/09/2024,3.0
+TXN_10034,CUST_1021,29.0,M,Books,$999.99,Credit Card,08/07/2024,3.0
+TXN_10035,CUST_1235,29.0,female,Beauty & Care,50.0,UPI,2024-06-23,1.0
+TXN_10036,CUST_1088,52.0,Male,Electronics,$25.50,PayPal,02-20-2024,4.0
+TXN_10037,CUST_1048,25.0,Male,Beauty & Care,-15.00,PayPal,12-29-2024,4.0
+TXN_10038,CUST_1218,18.0,Female, Clothing ,$120.00,Debit Card,2024-02-24,3.0
+TXN_10039,CUST_1058,18.0,Female,electronics,50.0,Debit Card,Invalid Date,1.0
+TXN_10040,CUST_1169,34.0,F,Electronics,$25.50,UPI,15/11/2024,4.0
+TXN_10041,CUST_1219,29.0,female, Clothing ,50.0,,05-10-2024,
+TXN_10042,CUST_1187,34.0,Male,Home & Kitchen,$120.00,Debit Card,02/11/2024,2.0
+TXN_10043,CUST_1207,22.0,Male,Home & Kitchen,$299.00,Credit Card,,3.0
+TXN_10044,CUST_1014,18.0,M,Electronics,$25.50,UPI,01-21-2024,2.0
+TXN_10045,CUST_1189,18.0,Male,Electronics,50.0,Credit Card,11-24-2024,3.0
+TXN_10046,CUST_1189,25.0,F, Clothing ,50.0,Credit Card,06-15-2024,2.0
+TXN_10047,CUST_1174,29.0,Female,electronics,$15.75,UPI,2024-09-30,3.0
+TXN_10048,CUST_1189,25.0,Female,Electronics,$999.99,Credit Card,2024-03-29,4.0
+TXN_10049,CUST_1050,25.0,Male,electronics,$15.75,Credit Card,11-11-2024,3.0
+TXN_10050,CUST_1107,52.0,Female,Books,$15.75,Credit Card,14/01/2024,3.0
+TXN_10051,CUST_1054,25.0,Female,Beauty & Care,$299.00,UPI,08-29-2024,3.0
+TXN_10052,CUST_1243,29.0,Female, Clothing ,$120.00,PayPal,2024-09-21,3.0
+TXN_10053,CUST_1063,41.0,Male,Beauty & Care,50.0,Debit Card,11/12/2024,1.0
+TXN_10054,CUST_1248,25.0,Female,electronics,$299.00,Credit Card,22/02/2024,1.0
+TXN_10055,CUST_1130,29.0,F, Clothing ,,Cash on Delivery,05/12/2024,5.0
+TXN_10056,CUST_1228,41.0,Male,Electronics,$299.00,Cash on Delivery,01/04/2024,1.0
+TXN_10057,CUST_1050,60.0,Male,Home & Kitchen,$120.00,Credit Card,20/09/2024,4.0
+TXN_10058,CUST_1134,18.0,Male,,$25.50,PayPal,04/02/2024,5.0
+TXN_10059,CUST_1020,60.0,Female,Home & Kitchen,50.0,Credit Card,24/07/2024,3.0
+TXN_10060,CUST_1072,25.0,Female, Clothing ,$15.75,,21/03/2024,3.0
+TXN_10061,CUST_1166,22.0,Female,Home & Kitchen,50.0,Debit Card,02-19-2024,3.0
+TXN_10062,CUST_1017,25.0,Male,Electronics,50.0,UPI,2024-12-25,5.0
+TXN_10063,CUST_1131,-5.0,Female,Books,$299.00,Credit Card,02/01/2024,10.0
+TXN_10064,CUST_1088,25.0,Female, Clothing ,$120.00,Cash on Delivery,23/02/2024,4.0
+TXN_10065,CUST_1059,25.0,Female, Clothing ,$299.00,Cash on Delivery,04-15-2024,1.0
+TXN_10066,CUST_1013,29.0,, Clothing ,50.0,Debit Card,16/09/2024,4.0
+TXN_10067,CUST_1241,22.0,Male,Home & Kitchen,$120.00,,11-05-2024,3.0
+TXN_10068,CUST_1249,18.0,Female,Electronics,50.0,PayPal,,3.0
+TXN_10069,CUST_1008,18.0,Female,Home & Kitchen,$15.75,Credit Card,2024-08-05,1.0
+TXN_10070,CUST_1089,18.0,Female,Electronics,$25.50,Debit Card,2024-02-13,2.0
+TXN_10071,CUST_1052,22.0,Female,Home & Kitchen,$25.50,Debit Card,10/06/2024,4.0
+TXN_10072,CUST_1129,18.0,Female,Books,,PayPal,2024-07-20,3.0
+TXN_10073,CUST_1083,29.0,,Books,$25.50,Credit Card,26/09/2024,3.0
+TXN_10074,CUST_1091,22.0,Male, Clothing ,$999.99,PayPal,Invalid Date,3.0
+TXN_10075,CUST_1110,25.0,Male, Clothing ,$999.99,Credit Card,2024-10-30,5.0
+TXN_10076,CUST_1187,52.0,Female,Electronics,50.0,PayPal,2024-09-27,4.0
+TXN_10077,CUST_1198,25.0,Female,Home & Kitchen,$0.00,Debit Card,2024-08-02,3.0
+TXN_10078,CUST_1171,34.0,Male,electronics,$120.00,Debit Card,09-08-2024,2.0
+TXN_10079,CUST_1007,22.0,Male, Clothing ,$999.99,Credit Card,08/07/2024,3.0
+TXN_10080,CUST_1174,22.0,Male,electronics,$120.00,PayPal,2024-10-22,5.0
+TXN_10081,CUST_1034,18.0,female,Electronics,$15.75,Credit Card,Invalid Date,3.0
+TXN_10082,CUST_1205,22.0,Male,Home & Kitchen,$25.50,Credit Card,07-26-2024,3.0
+TXN_10083,CUST_1080,22.0,Male,Electronics,$999.99,Cash on Delivery,2024-08-24,3.0
+TXN_10084,CUST_1163,22.0,Male,Home & Kitchen,$25.50,UPI,12-03-2024,3.0
+TXN_10085,CUST_1049,18.0,Male,electronics,$120.00,PayPal,02-22-2024,4.0
+TXN_10086,CUST_1103,18.0,Male,Electronics,$120.00,Cash on Delivery,06/10/2024,3.0
+TXN_10087,CUST_1131,25.0,Female, Clothing ,$25.50,UPI,2024-08-04,2.0
+TXN_10088,CUST_1001,22.0,Male,Electronics,$299.00,Cash on Delivery,2024-09-08,2.0
+TXN_10089,CUST_1133,25.0,M,electronics,$120.00,Credit Card,2024-07-06,3.0
+TXN_10090,CUST_1053,29.0,Male,Home & Kitchen,$45.10,,02-10-2024,10.0
+TXN_10091,CUST_1105,34.0,Female,Electronics,,PayPal,Invalid Date,3.0
+TXN_10092,CUST_1003,18.0,female,Books,$999.99,Credit Card,2024-01-15,5.0
+TXN_10093,CUST_1053,41.0,Female,Electronics,$25.50,Credit Card,2024-10-27,4.0
+TXN_10094,CUST_1220,29.0,Female,Electronics,$120.00,PayPal,2024-03-05,2.0
+TXN_10095,CUST_1190,18.0,Male,Home & Kitchen,$15.75,Credit Card,2024-12-10,1.0
+TXN_10096,CUST_1145,52.0,Male,electronics,$120.00,Credit Card,11-22-2024,2.0
+TXN_10097,CUST_1217,60.0,Female,Electronics,$25.50,Credit Card,2024-01-09,4.0
+TXN_10098,CUST_1043,18.0,, Clothing ,$999.99,Cash on Delivery,2024-12-09,2.0
+TXN_10099,CUST_1161,22.0,Female,electronics,$299.00,UPI,2024-05-08,3.0
+TXN_10100,CUST_1201,41.0,Female,Books,$15.75,Credit Card,15/05/2024,3.0
+TXN_10101,CUST_1189,34.0,Female,electronics,$25.50,UPI,03/03/2024,4.0
+TXN_10102,CUST_1227,22.0,Female,Home & Kitchen,$15.75,UPI,05-18-2024,2.0
+TXN_10103,CUST_1013,22.0,Male,Books,$120.00,Cash on Delivery,2024-03-21,3.0
+TXN_10104,CUST_1094,25.0,Female, Clothing ,$120.00,Credit Card,06-11-2024,3.0
+TXN_10105,CUST_1047,25.0,,Beauty & Care,$299.00,Debit Card,15/10/2024,3.0
+TXN_10106,CUST_1014,29.0,Male, Clothing ,$120.00,UPI,2024-09-17,4.0
+TXN_10107,CUST_1199,25.0,Female,,$120.00,Debit Card,18/08/2024,2.0
+TXN_10108,CUST_1205,25.0,Male,Electronics,$25.50,Credit Card,Invalid Date,4.0
+TXN_10109,CUST_1214,34.0,Female,Home & Kitchen,$299.00,PayPal,Invalid Date,4.0
+TXN_10110,CUST_1248,18.0,Male, Clothing ,$15.75,Debit Card,14/05/2024,3.0
+TXN_10111,CUST_1189,22.0,Female, Clothing ,-15.00,PayPal,19/07/2024,4.0
+TXN_10112,CUST_1039,34.0,Female,Home & Kitchen,$15.75,Credit Card,Invalid Date,3.0
+TXN_10113,CUST_1212,52.0,Male,Home & Kitchen,$25.50,Credit Card,24/09/2024,2.0
+TXN_10114,CUST_1207,29.0,Female,Electronics,50.0,Cash on Delivery,2024-02-02,4.0
+TXN_10115,CUST_1236,29.0,M,Electronics,$120.00,UPI,Invalid Date,3.0
+TXN_10116,CUST_1081,18.0,MALE,Home & Kitchen,$25.50,Credit Card,2024-03-02,4.0
+TXN_10117,CUST_1110,25.0,Male,Home & Kitchen,50.0,,03/08/2024,3.0
+TXN_10118,CUST_1052,29.0,Female,,$45.10,Credit Card,2024-10-19,5.0
+TXN_10119,CUST_1023,22.0,Male,Home & Kitchen,$25.50,Debit Card,2024-04-08,3.0
+TXN_10120,CUST_1153,22.0,,Beauty & Care,$120.00,Cash on Delivery,2024-06-20,1.0
+TXN_10121,CUST_1216,25.0,MALE,Home & Kitchen,$120.00,Cash on Delivery,12-25-2024,3.0
+TXN_10122,CUST_1187,18.0,Female,electronics,$120.00,UPI,2024-08-01,4.0
+TXN_10123,CUST_1123,25.0,F,Electronics,$45.10,Credit Card,2024-02-04,4.0
+TXN_10124,CUST_1236,22.0,Female,Home & Kitchen,50.0,UPI,2024-08-14,3.0
+TXN_10125,CUST_1040,25.0,Female,Home & Kitchen,50.0,Credit Card,10/04/2024,5.0
+TXN_10126,CUST_1156,18.0,Male,Electronics,$15.75,Debit Card,,3.0
+TXN_10127,CUST_1014,52.0,Female, Clothing ,$25.50,Debit Card,13/09/2024,3.0
+TXN_10128,CUST_1044,29.0,Male,Beauty & Care,50.0,Debit Card,05/01/2024,5.0
+TXN_10129,CUST_1064,34.0,F, Clothing ,50.0,Credit Card,Invalid Date,5.0
+TXN_10130,CUST_1088,41.0,M, Clothing ,$999.99,UPI,11/09/2024,4.0
+TXN_10131,CUST_1070,25.0,Female, Clothing ,,Credit Card,2024-12-24,5.0
+TXN_10132,CUST_1008,18.0,Male,Electronics,$15.75,Credit Card,2024-10-09,1.0
+TXN_10133,CUST_1087,29.0,Male, Clothing ,$120.00,Debit Card,2024-07-25,5.0
+TXN_10134,CUST_1128,29.0,Male, Clothing ,$299.00,PayPal,15/01/2024,3.0
+TXN_10135,CUST_1235,34.0,Male,Electronics,$25.50,Cash on Delivery,11/12/2024,2.0
+TXN_10136,CUST_1135,25.0,Male,Home & Kitchen,$25.50,PayPal,02-11-2024,2.0
+TXN_10137,CUST_1215,18.0,MALE, Clothing ,$120.00,Credit Card,2024-06-27,3.0
+TXN_10138,CUST_1062,22.0,Female,Books,$120.00,Cash on Delivery,03/03/2024,3.0
+TXN_10139,CUST_1138,25.0,Male,Books,50.0,PayPal,17/12/2024,3.0
+TXN_10140,CUST_1242,29.0,Female,Electronics,-15.00,Credit Card,18/08/2024,2.0
+TXN_10141,CUST_1080,29.0,Female,Home & Kitchen,$45.10,Debit Card,08-28-2024,3.0
+TXN_10142,CUST_1135,25.0,Female, Clothing ,50.0,PayPal,21/02/2024,3.0
+TXN_10143,CUST_1162,-5.0,Female,Books,50.0,Debit Card,2024-04-05,3.0
+TXN_10144,CUST_1162,29.0,female,Electronics,$25.50,PayPal,08-09-2024,3.0
+TXN_10145,CUST_1032,22.0,Female,Home & Kitchen,$25.50,Cash on Delivery,18/08/2024,4.0
+TXN_10146,CUST_1122,18.0,,Home & Kitchen,$999.99,Cash on Delivery,24/08/2024,5.0
+TXN_10147,CUST_1004,22.0,F,electronics,50.0,Debit Card,22/05/2024,4.0
+TXN_10148,CUST_1233,22.0,Male,Electronics,$299.00,Credit Card,19/06/2024,3.0
+TXN_10149,CUST_1230,22.0,MALE,Home & Kitchen,$25.50,Cash on Delivery,01-29-2024,4.0
+TXN_10150,CUST_1249,22.0,Male,Home & Kitchen,$25.50,Debit Card,2024-02-05,2.0
+TXN_10151,CUST_1040,22.0,M,electronics,50.0,Debit Card,2024-01-13,2.0
+TXN_10152,CUST_1027,22.0,Female,Home & Kitchen,$120.00,PayPal,2024-06-08,3.0
+TXN_10153,CUST_1134,52.0,F, Clothing ,$25.50,UPI,11-22-2024,4.0
+TXN_10154,CUST_1200,18.0,F,Home & Kitchen,$15.75,Debit Card,2024-07-05,2.0
+TXN_10155,CUST_1071,29.0,M,Electronics,$25.50,Credit Card,Invalid Date,1.0
+TXN_10156,CUST_1011,25.0,M,Books,-15.00,PayPal,26/03/2024,2.0
+TXN_10157,CUST_1161,-5.0,Male,electronics,$120.00,UPI,10-10-2024,5.0
+TXN_10158,CUST_1032,18.0,Male, Clothing ,$25.50,Credit Card,,4.0
+TXN_10159,CUST_1047,25.0,Female,Electronics,$120.00,,06-18-2024,3.0
+TXN_10160,CUST_1246,,Male,Electronics,$299.00,Debit Card,Invalid Date,3.0
+TXN_10161,CUST_1150,41.0,Female, Clothing ,$120.00,Debit Card,02/03/2024,3.0
+TXN_10162,CUST_1061,41.0,Male,electronics,$15.75,Credit Card,13/05/2024,4.0
+TXN_10163,CUST_1215,22.0,,Books,$25.50,Credit Card,2024-10-10,2.0
+TXN_10164,CUST_1036,22.0,Female,Electronics,$15.75,UPI,2024-01-28,5.0
+TXN_10165,CUST_1098,34.0,F, Clothing ,$120.00,Credit Card,17/04/2024,3.0
+TXN_10166,CUST_1171,60.0,Male,electronics,$15.75,Cash on Delivery,13/02/2024,4.0
+TXN_10167,CUST_1103,29.0,F,Electronics,$999.99,PayPal,2024-12-05,1.0
+TXN_10168,CUST_1213,29.0,MALE,Electronics,$45.10,Credit Card,12/10/2024,3.0
+TXN_10169,CUST_1218,22.0,Female, Clothing ,$120.00,Credit Card,Invalid Date,3.0
+TXN_10170,CUST_1034,34.0,Female, Clothing ,$25.50,PayPal,07/05/2024,3.0
+TXN_10171,CUST_1192,22.0,M, Clothing ,$25.50,,12-13-2024,1.0
+TXN_10172,CUST_1226,25.0,Male, Clothing ,$299.00,PayPal,08-18-2024,4.0
+TXN_10173,CUST_1100,25.0,Female, Clothing ,50.0,PayPal,,2.0
+TXN_10174,CUST_1174,29.0,Female,Electronics,$15.75,Credit Card,12/08/2024,4.0
+TXN_10175,CUST_1205,22.0,Male, Clothing ,$120.00,PayPal,10-09-2024,4.0
+TXN_10176,CUST_1130,18.0,Male,,$120.00,PayPal,,3.0
+TXN_10177,CUST_1000,29.0,Male, Clothing ,$25.50,UPI,,4.0
+TXN_10178,CUST_1004,22.0,Male,Home & Kitchen,,PayPal,2024-08-20,4.0
+TXN_10179,CUST_1217,29.0,Male,electronics,$15.75,PayPal,15/09/2024,3.0
+TXN_10180,CUST_1246,22.0,,Home & Kitchen,$45.10,Credit Card,2024-12-24,4.0
+TXN_10181,CUST_1141,25.0,Female,Home & Kitchen,$120.00,,2024-07-16,3.0
+TXN_10182,CUST_1102,29.0,, Clothing ,-15.00,Credit Card,16/05/2024,3.0
+TXN_10183,CUST_1026,18.0,Female,,$15.75,Credit Card,11-13-2024,4.0
+TXN_10184,CUST_1136,25.0,Male,Electronics,$120.00,Debit Card,06-13-2024,3.0
+TXN_10185,CUST_1206,18.0,Female,Electronics,$299.00,PayPal,2024-08-12,3.0
+TXN_10186,CUST_1014,18.0,Female,Home & Kitchen,$45.10,PayPal,Invalid Date,3.0
+TXN_10187,CUST_1089,-5.0,Male,Books,$299.00,PayPal,21/08/2024,4.0
+TXN_10188,CUST_1041,25.0,Female,Electronics,$15.75,Cash on Delivery,06-20-2024,5.0
+TXN_10189,CUST_1123,41.0,Male,electronics,$120.00,Credit Card,Invalid Date,3.0
+TXN_10190,CUST_1204,22.0,Female,Electronics,$120.00,Cash on Delivery,10/11/2024,4.0
+TXN_10191,CUST_1178,34.0,Female,electronics,,Debit Card,2024-06-08,5.0
+TXN_10192,CUST_1062,34.0,Male,Home & Kitchen,$25.50,PayPal,04-05-2024,1.0
+TXN_10193,CUST_1095,29.0,Male, Clothing ,$15.75,PayPal,20/08/2024,2.0
+TXN_10194,CUST_1230,25.0,M,electronics,$15.75,Credit Card,2024-06-28,4.0
+TXN_10195,CUST_1240,25.0,Female, Clothing ,-15.00,Cash on Delivery,04-22-2024,4.0
+TXN_10196,CUST_1051,25.0,Male,Electronics,,PayPal,2024-11-13,5.0
+TXN_10197,CUST_1095,60.0,,electronics,$120.00,Credit Card,02-21-2024,3.0
+TXN_10198,CUST_1131,41.0,Male,Home & Kitchen,$120.00,PayPal,24/09/2024,1.0
+TXN_10199,CUST_1221,,Female,,$25.50,,Invalid Date,3.0
+TXN_10200,CUST_1228,18.0,,Books,50.0,PayPal,2024-04-22,2.0
+TXN_10201,CUST_1150,34.0,Male,Electronics,$120.00,UPI,,3.0
+TXN_10202,CUST_1230,60.0,Male,Books,$120.00,Credit Card,04-22-2024,4.0
+TXN_10203,CUST_1236,22.0,Male,Home & Kitchen,$299.00,Credit Card,2024-03-21,1.0
+TXN_10204,CUST_1142,18.0,Male,Home & Kitchen,$45.10,Credit Card,05/07/2024,4.0
+TXN_10205,CUST_1170,34.0,Male, Clothing ,$25.50,PayPal,,3.0
+TXN_10206,CUST_1028,29.0,Female, Clothing ,$120.00,Credit Card,02/01/2024,3.0
+TXN_10207,CUST_1035,41.0,Male,electronics,$45.10,Credit Card,2024-05-09,1.0
+TXN_10208,CUST_1012,18.0,Female,Electronics,$25.50,UPI,07/08/2024,3.0
+TXN_10209,CUST_1159,41.0,,Electronics,$25.50,Cash on Delivery,23/02/2024,1.0
+TXN_10210,CUST_1070,22.0,M,Electronics,$25.50,Debit Card,12-08-2024,
+TXN_10211,CUST_1186,22.0,Female, Clothing ,$999.99,Credit Card,08-11-2024,4.0
+TXN_10212,CUST_1242,22.0,Male,Home & Kitchen,$25.50,Credit Card,12/08/2024,3.0
+TXN_10213,CUST_1085,41.0,Female, Clothing ,,Credit Card,2024-05-05,2.0
+TXN_10214,CUST_1027,34.0,Female,Electronics,50.0,Debit Card,09/05/2024,10.0
+TXN_10215,CUST_1065,29.0,Female,Beauty & Care,50.0,UPI,22/02/2024,3.0
+TXN_10216,CUST_1169,25.0,Male,Beauty & Care,$120.00,PayPal,2024-06-20,2.0
+TXN_10217,CUST_1044,52.0,female,Home & Kitchen,50.0,Credit Card,Invalid Date,3.0
+TXN_10218,CUST_1061,25.0,Female,,$15.75,PayPal,06-08-2024,10.0
+TXN_10219,CUST_1184,41.0,Male, Clothing ,$15.75,Credit Card,07-16-2024,1.0
+TXN_10220,CUST_1244,25.0,Male,,$15.75,PayPal,09-03-2024,2.0
+TXN_10221,CUST_1133,25.0,Female,Electronics,$999.99,Debit Card,19/11/2024,10.0
+TXN_10222,CUST_1027,25.0,F, Clothing ,$45.10,Debit Card,07-21-2024,2.0
+TXN_10223,CUST_1027,25.0,Female,Electronics,$299.00,Credit Card,02/07/2024,2.0
+TXN_10224,CUST_1107,34.0,M,Electronics,$15.75,Credit Card,2024-05-02,3.0
+TXN_10225,CUST_1043,29.0,Male,Electronics,$25.50,,11/09/2024,5.0
+TXN_10226,CUST_1083,22.0,Female,Home & Kitchen,$25.50,Credit Card,20/10/2024,3.0
+TXN_10227,CUST_1029,52.0,Female,Home & Kitchen,$120.00,Credit Card,10-06-2024,
+TXN_10228,CUST_1189,25.0,Male, Clothing ,$15.75,Credit Card,2024-11-20,4.0
+TXN_10229,CUST_1074,29.0,Male,Electronics,50.0,Credit Card,2024-04-07,1.0
+TXN_10230,CUST_1127,52.0,M,Books,50.0,PayPal,2024-07-16,
+TXN_10231,CUST_1249,29.0,Male,Home & Kitchen,$299.00,Cash on Delivery,2024-08-27,3.0
+TXN_10232,CUST_1246,18.0,Female, Clothing ,$299.00,Credit Card,05-23-2024,3.0
+TXN_10233,CUST_1091,60.0,Male,Home & Kitchen,$45.10,PayPal,2024-04-06,3.0
+TXN_10234,CUST_1216,29.0,Male,electronics,$120.00,Debit Card,19/07/2024,3.0
+TXN_10235,CUST_1230,25.0,Male,electronics,$15.75,PayPal,03/05/2024,1.0
+TXN_10236,CUST_1189,18.0,,Beauty & Care,$120.00,UPI,05/07/2024,1.0
+TXN_10237,CUST_1224,41.0,M,electronics,$25.50,UPI,11-21-2024,3.0
+TXN_10238,CUST_1128,29.0,, Clothing ,$25.50,Credit Card,14/12/2024,4.0
+TXN_10239,CUST_1120,29.0,Female,Books,$120.00,Cash on Delivery,09-15-2024,3.0
+TXN_10240,CUST_1026,52.0,Male,Home & Kitchen,50.0,PayPal,27/05/2024,
+TXN_10241,CUST_1189,41.0,Female,Electronics,$299.00,,08/09/2024,3.0
+TXN_10242,CUST_1120,22.0,Female,Electronics,$25.50,PayPal,,3.0
+TXN_10243,CUST_1115,25.0,F,Electronics,$15.75,,2024-05-26,2.0
+TXN_10244,CUST_1204,22.0,Male,Home & Kitchen,50.0,Cash on Delivery,2024-05-27,2.0
+TXN_10245,CUST_1232,34.0,Female, Clothing ,$120.00,Credit Card,12-17-2024,3.0
+TXN_10246,CUST_1002,18.0,Male,Electronics,50.0,PayPal,2024-07-17,4.0
+TXN_10247,CUST_1102,29.0,Male,Beauty & Care,$120.00,,11-03-2024,5.0
+TXN_10248,CUST_1197,34.0,Female, Clothing ,$999.99,UPI,07/05/2024,
+TXN_10249,CUST_1199,52.0,Female,Electronics,50.0,Credit Card,Invalid Date,2.0
+TXN_10250,CUST_1154,25.0,Male, Clothing ,$25.50,Debit Card,12-03-2024,5.0
+TXN_10251,CUST_1136,41.0,Female,Home & Kitchen,$25.50,Credit Card,25/12/2024,3.0
+TXN_10252,CUST_1061,18.0,Female,Electronics,50.0,Credit Card,,2.0
+TXN_10253,CUST_1164,41.0,M,electronics,$45.10,PayPal,23/09/2024,5.0
+TXN_10254,CUST_1224,18.0,female,Books,$120.00,Credit Card,,4.0
+TXN_10255,CUST_1050,25.0,, Clothing ,$15.75,Cash on Delivery,2024-10-24,2.0
+TXN_10256,CUST_1233,41.0,M, Clothing ,$15.75,Credit Card,08/04/2024,3.0
+TXN_10257,CUST_1171,18.0,Male, Clothing ,$45.10,Cash on Delivery,2024-09-19,3.0
+TXN_10258,CUST_1151,22.0,Female,Electronics,$299.00,Credit Card,08/09/2024,4.0
+TXN_10259,CUST_1206,34.0,Female,Electronics,$999.99,Credit Card,2024-05-23,3.0
+TXN_10260,CUST_1058,34.0,Male, Clothing ,$15.75,Credit Card,12-11-2024,
+TXN_10261,CUST_1117,29.0,F,Electronics,$299.00,Credit Card,04-21-2024,1.0
+TXN_10262,CUST_1159,34.0,Male,Electronics,$120.00,Credit Card,,3.0
+TXN_10263,CUST_1095,29.0,female,Books,$120.00,Credit Card,2024-01-02,3.0
+TXN_10264,CUST_1215,22.0,Female,,$25.50,PayPal,30/10/2024,3.0
+TXN_10265,CUST_1232,25.0,Female,Home & Kitchen,$299.00,Credit Card,10/09/2024,3.0
+TXN_10266,CUST_1179,22.0,Female,Books,$299.00,PayPal,2024-05-19,4.0
+TXN_10267,CUST_1112,52.0,female,Electronics,$25.50,PayPal,06/02/2024,5.0
+TXN_10268,CUST_1061,29.0,Female,,$999.99,UPI,08/06/2024,10.0
+TXN_10269,CUST_1240,25.0,Female,Electronics,50.0,UPI,01-09-2024,4.0
+TXN_10270,CUST_1185,25.0,Male,Beauty & Care,$25.50,PayPal,20/08/2024,5.0
+TXN_10271,CUST_1051,60.0,Female,,,Credit Card,08/04/2024,3.0
+TXN_10272,CUST_1011,22.0,Male,Home & Kitchen,$120.00,Credit Card,2024-05-26,4.0
+TXN_10273,CUST_1038,29.0,Female,,$25.50,,2024-10-30,3.0
+TXN_10274,CUST_1129,29.0,Female, Clothing ,$999.99,Credit Card,2024-07-26,3.0
+TXN_10275,CUST_1130,29.0,Female,electronics,$15.75,Credit Card,,3.0
+TXN_10276,CUST_1112,18.0,Male, Clothing ,$25.50,Credit Card,2024-05-31,3.0
+TXN_10277,CUST_1100,52.0,Male, Clothing ,$15.75,Credit Card,2024-02-23,3.0
+TXN_10278,CUST_1112,60.0,Female,Electronics,50.0,Credit Card,2024-04-29,
+TXN_10279,CUST_1183,29.0,Male,Home & Kitchen,$25.50,Cash on Delivery,06-09-2024,3.0
+TXN_10280,CUST_1080,34.0,Male,,$25.50,Credit Card,,1.0
+TXN_10281,CUST_1186,60.0,Male,Electronics,$999.99,Debit Card,03-15-2024,3.0
+TXN_10282,CUST_1112,34.0,,Home & Kitchen,$120.00,Credit Card,04-22-2024,1.0
+TXN_10283,CUST_1001,22.0,Female,Beauty & Care,$45.10,Credit Card,13/04/2024,2.0
+TXN_10284,CUST_1129,29.0,Male,Beauty & Care,$299.00,UPI,2024-12-05,2.0
+TXN_10285,CUST_1219,29.0,Male,,,Credit Card,,3.0
+TXN_10286,CUST_1053,25.0,Male, Clothing ,$120.00,Cash on Delivery,08-14-2024,3.0
+TXN_10287,CUST_1086,34.0,M,,,PayPal,21/04/2024,4.0
+TXN_10288,CUST_1228,60.0,Female,Home & Kitchen,50.0,Credit Card,04-08-2024,4.0
+TXN_10289,CUST_1223,60.0,Male,Electronics,$120.00,,06-01-2024,3.0
+TXN_10290,CUST_1224,25.0,Male, Clothing ,$25.50,Credit Card,14/12/2024,3.0
+TXN_10291,CUST_1128,18.0,Male,Home & Kitchen,$25.50,UPI,,3.0
+TXN_10292,CUST_1146,-5.0,Female,Electronics,$15.75,Credit Card,Invalid Date,4.0
+TXN_10293,CUST_1125,41.0,M,Home & Kitchen,50.0,UPI,12/07/2024,1.0
+TXN_10294,CUST_1129,18.0,Male,Home & Kitchen,$120.00,Credit Card,11-05-2024,1.0
+TXN_10295,CUST_1052,60.0,Male,Electronics,-15.00,PayPal,2024-06-11,4.0
+TXN_10296,CUST_1171,41.0,Male, Clothing ,$120.00,Cash on Delivery,07-26-2024,3.0
+TXN_10297,CUST_1217,29.0,,Home & Kitchen,$999.99,UPI,2024-06-17,2.0
+TXN_10298,CUST_1159,29.0,Male, Clothing ,$120.00,UPI,09/06/2024,2.0
+TXN_10299,CUST_1197,25.0,M,Electronics,$299.00,Cash on Delivery,,10.0
+TXN_10300,CUST_1159,18.0,Female,Electronics,$299.00,UPI,15/10/2024,5.0
+TXN_10301,CUST_1246,25.0,Female, Clothing ,50.0,Credit Card,03/10/2024,4.0
+TXN_10302,CUST_1067,41.0,Male,Beauty & Care,$120.00,Credit Card,2024-10-30,3.0
+TXN_10303,CUST_1182,18.0,Male,Electronics,$120.00,Credit Card,2024-05-14,3.0
+TXN_10304,CUST_1202,25.0,Female,Home & Kitchen,$299.00,PayPal,07-13-2024,
+TXN_10305,CUST_1183,25.0,M,Electronics,$120.00,PayPal,2024-05-07,
+TXN_10306,CUST_1122,29.0,Female,electronics,$120.00,PayPal,2024-02-02,2.0
+TXN_10307,CUST_1144,52.0,Female,Books,$25.50,Credit Card,24/06/2024,4.0
+TXN_10308,CUST_1037,25.0,Male,Home & Kitchen,50.0,Debit Card,01-22-2024,2.0
+TXN_10309,CUST_1023,25.0,,Electronics,50.0,Credit Card,08-25-2024,2.0
+TXN_10310,CUST_1068,34.0,M, Clothing ,$299.00,Credit Card,2024-06-06,4.0
+TXN_10311,CUST_1115,25.0,Male,Electronics,$120.00,PayPal,07/02/2024,3.0
+TXN_10312,CUST_1097,22.0,, Clothing ,$120.00,Cash on Delivery,17/08/2024,10.0
+TXN_10313,CUST_1197,25.0,Female,Home & Kitchen,$299.00,Debit Card,30/12/2024,1.0
+TXN_10314,CUST_1213,18.0,Female,Electronics,$299.00,Debit Card,02-20-2024,3.0
+TXN_10315,CUST_1138,22.0,Female,electronics,$120.00,Credit Card,20/09/2024,5.0
+TXN_10316,CUST_1239,25.0,M, Clothing ,50.0,PayPal,09/10/2024,5.0
+TXN_10317,CUST_1143,25.0,Female,Beauty & Care,$120.00,Credit Card,27/01/2024,2.0
+TXN_10318,CUST_1096,52.0,Male,,$45.10,PayPal,Invalid Date,3.0
+TXN_10319,CUST_1200,25.0,Male,Electronics,$25.50,PayPal,03/10/2024,4.0
+TXN_10320,CUST_1123,29.0,MALE,Home & Kitchen,$45.10,Credit Card,12/10/2024,2.0
+TXN_10321,CUST_1186,29.0,Male, Clothing ,$15.75,Credit Card,06/04/2024,
+TXN_10322,CUST_1069,18.0,Male, Clothing ,50.0,,10/10/2024,5.0
+TXN_10323,CUST_1207,34.0,Female,Home & Kitchen,$25.50,,11-12-2024,2.0
+TXN_10324,CUST_1092,22.0,Female,Beauty & Care,50.0,PayPal,30/10/2024,2.0
+TXN_10325,CUST_1002,,Female,Beauty & Care,50.0,Credit Card,05-26-2024,1.0
+TXN_10326,CUST_1147,18.0,MALE, Clothing ,$25.50,Credit Card,01-04-2024,5.0
+TXN_10327,CUST_1186,25.0,Male, Clothing ,$15.75,PayPal,04/02/2024,2.0
+TXN_10328,CUST_1163,18.0,Male,Home & Kitchen,,UPI,10/07/2024,3.0
+TXN_10329,CUST_1146,150.0,Male,electronics,$999.99,Credit Card,Invalid Date,3.0
+TXN_10330,CUST_1089,29.0,female, Clothing ,$15.75,Cash on Delivery,17/01/2024,3.0
+TXN_10331,CUST_1194,29.0,Female, Clothing ,$25.50,Credit Card,20/06/2024,1.0
+TXN_10332,CUST_1146,18.0,Male,Home & Kitchen,50.0,,,2.0
+TXN_10333,CUST_1147,34.0,M,Electronics,$25.50,PayPal,2024-06-06,10.0
+TXN_10334,CUST_1095,22.0,F,Electronics,-15.00,Cash on Delivery,2024-02-15,5.0
+TXN_10335,CUST_1198,52.0,F,Beauty & Care,$45.10,Credit Card,06/01/2024,4.0
+TXN_10336,CUST_1051,22.0,female,Electronics,$15.75,Debit Card,,1.0
+TXN_10337,CUST_1232,22.0,Male, Clothing ,$25.50,Credit Card,2024-08-20,3.0
+TXN_10338,CUST_1160,18.0,Female,Electronics,$120.00,Credit Card,2024-02-06,4.0
+TXN_10339,CUST_1167,25.0,Female,Electronics,$999.99,UPI,2024-10-06,3.0
+TXN_10340,CUST_1127,29.0,F,Electronics,50.0,UPI,2024-12-14,5.0
+TXN_10341,CUST_1038,18.0,Female,Electronics,$299.00,UPI,2024-10-28,4.0
+TXN_10342,CUST_1081,41.0,M,Books,$299.00,Debit Card,29/06/2024,1.0
+TXN_10343,CUST_1103,25.0,Female,electronics,-15.00,Cash on Delivery,04/04/2024,5.0
+TXN_10344,CUST_1128,29.0,Male,Beauty & Care,$120.00,Credit Card,2024-04-08,
+TXN_10345,CUST_1010,25.0,Female, Clothing ,$120.00,Credit Card,06/07/2024,1.0
+TXN_10346,CUST_1219,25.0,, Clothing ,$25.50,Credit Card,2024-04-25,3.0
+TXN_10347,CUST_1184,29.0,MALE, Clothing ,$120.00,Debit Card,2024-07-09,3.0
+TXN_10348,CUST_1216,22.0,Male, Clothing ,50.0,PayPal,09/09/2024,3.0
+TXN_10349,CUST_1177,22.0,Male,Home & Kitchen,$15.75,Credit Card,06-09-2024,2.0
+TXN_10350,CUST_1150,41.0,Male,electronics,$15.75,PayPal,2024-09-12,3.0
+TXN_10351,CUST_1158,60.0,Female, Clothing ,$25.50,Cash on Delivery,18/11/2024,
+TXN_10352,CUST_1221,25.0,M,Books,$120.00,PayPal,2024-05-07,3.0
+TXN_10353,CUST_1041,22.0,Male,Beauty & Care,$25.50,Credit Card,Invalid Date,1.0
+TXN_10354,CUST_1098,29.0,Female,Books,$25.50,Credit Card,10-07-2024,4.0
+TXN_10355,CUST_1006,25.0,F, Clothing ,$299.00,Credit Card,10/08/2024,3.0
+TXN_10356,CUST_1143,18.0,Female,Home & Kitchen,$25.50,Credit Card,2024-02-23,5.0
+TXN_10357,CUST_1089,22.0,Female, Clothing ,50.0,Debit Card,Invalid Date,3.0
+TXN_10358,CUST_1111,34.0,Female, Clothing ,$25.50,Debit Card,2024-11-18,2.0
+TXN_10359,CUST_1248,34.0,Female,Electronics,$299.00,Debit Card,2024-12-25,2.0
+TXN_10360,CUST_1243,18.0,Male, Clothing ,$999.99,PayPal,22/06/2024,4.0
+TXN_10361,CUST_1059,22.0,Female,Electronics,$120.00,Cash on Delivery,2024-10-06,3.0
+TXN_10362,CUST_1112,22.0,Female,electronics,50.0,Credit Card,,4.0
+TXN_10363,CUST_1001,34.0,F,Books,$15.75,PayPal,10-14-2024,2.0
+TXN_10364,CUST_1128,18.0,Female,Electronics,,Cash on Delivery,2024-12-07,3.0
+TXN_10365,CUST_1047,18.0,M,Electronics,$120.00,Credit Card,30/05/2024,3.0
+TXN_10366,CUST_1139,41.0,Male,Electronics,$299.00,Credit Card,,10.0
+TXN_10367,CUST_1196,22.0,Female,Beauty & Care,$45.10,UPI,Invalid Date,10.0
+TXN_10368,CUST_1036,34.0,Male, Clothing ,$45.10,Credit Card,29/09/2024,2.0
+TXN_10369,CUST_1159,22.0,Male, Clothing ,$0.00,Debit Card,Invalid Date,3.0
+TXN_10370,CUST_1246,18.0,Female,Books,-15.00,Credit Card,,2.0
+TXN_10371,CUST_1008,22.0,,Books,50.0,Debit Card,09-02-2024,3.0
+TXN_10372,CUST_1232,34.0,Male,electronics,$15.75,Credit Card,2024-06-24,3.0
+TXN_10373,CUST_1098,41.0,Female,Home & Kitchen,50.0,Credit Card,08/02/2024,5.0
+TXN_10374,CUST_1146,41.0,M,Home & Kitchen,$15.75,Debit Card,06-18-2024,10.0
+TXN_10375,CUST_1047,25.0,Male,Home & Kitchen,50.0,Credit Card,2024-09-03,3.0
+TXN_10376,CUST_1207,34.0,Female,Electronics,$15.75,PayPal,01-26-2024,3.0
+TXN_10377,CUST_1130,22.0,Female,Books,$299.00,Credit Card,2024-12-20,5.0
+TXN_10378,CUST_1147,22.0,Female, Clothing ,$25.50,Credit Card,2024-11-01,4.0
+TXN_10379,CUST_1151,52.0,Male,electronics,$299.00,Credit Card,13/01/2024,1.0
+TXN_10380,CUST_1053,18.0,Male, Clothing ,50.0,Credit Card,2024-11-11,3.0
+TXN_10381,CUST_1119,18.0,M,Electronics,$299.00,UPI,,3.0
+TXN_10382,CUST_1160,22.0,Female,Electronics,50.0,Credit Card,02-05-2024,2.0
+TXN_10383,CUST_1151,18.0,Male,Home & Kitchen,$120.00,PayPal,06-21-2024,2.0
+TXN_10384,CUST_1115,22.0,M,Electronics,$45.10,Credit Card,20/01/2024,1.0
+TXN_10385,CUST_1074,29.0,Male, Clothing ,$120.00,Credit Card,2024-11-16,4.0
+TXN_10386,CUST_1112,25.0,Female, Clothing ,$299.00,UPI,20/09/2024,3.0
+TXN_10387,CUST_1199,52.0,Male,Electronics,50.0,Credit Card,21/05/2024,1.0
+TXN_10388,CUST_1163,41.0,,,50.0,,22/05/2024,2.0
+TXN_10389,CUST_1165,25.0,Male,Electronics,$120.00,Credit Card,2024-04-01,4.0
+TXN_10390,CUST_1103,22.0,Male,electronics,$999.99,Debit Card,19/12/2024,5.0
+TXN_10391,CUST_1083,25.0,Male,electronics,$120.00,PayPal,17/11/2024,3.0
+TXN_10392,CUST_1226,29.0,Male,Electronics,$25.50,UPI,,3.0
+TXN_10393,CUST_1111,22.0,F,Electronics,$120.00,PayPal,Invalid Date,
+TXN_10394,CUST_1216,29.0,,Home & Kitchen,$25.50,PayPal,07/12/2024,2.0
+TXN_10395,CUST_1098,25.0,Male,,,Credit Card,20/02/2024,2.0
+TXN_10396,CUST_1152,29.0,Female,Electronics,,Credit Card,06-01-2024,3.0
+TXN_10397,CUST_1092,25.0,Female,Home & Kitchen,$120.00,UPI,2024-07-04,2.0
+TXN_10398,CUST_1145,22.0,female,Home & Kitchen,$15.75,Credit Card,Invalid Date,3.0
+TXN_10399,CUST_1127,60.0,Female,Books,$120.00,PayPal,Invalid Date,5.0
+TXN_10400,CUST_1109,34.0,Female, Clothing ,$15.75,Cash on Delivery,04/05/2024,4.0
+TXN_10401,CUST_1081,18.0,Female,electronics,$299.00,Credit Card,29/05/2024,3.0
+TXN_10402,CUST_1193,41.0,Female,electronics,$45.10,,2024-11-09,10.0
+TXN_10403,CUST_1053,25.0,Male,Home & Kitchen,50.0,Debit Card,27/02/2024,1.0
+TXN_10404,CUST_1162,52.0,Female,Books,$15.75,PayPal,2024-12-07,2.0
+TXN_10405,CUST_1207,41.0,Male,Electronics,$120.00,UPI,Invalid Date,3.0
+TXN_10406,CUST_1188,25.0,M, Clothing ,,Credit Card,2024-06-28,4.0
+TXN_10407,CUST_1168,18.0,Male,Beauty & Care,$25.50,Credit Card,2024-06-18,1.0
+TXN_10408,CUST_1227,22.0,Female,Books,-15.00,PayPal,,3.0
+TXN_10409,CUST_1160,29.0,Female,,$15.75,Credit Card,09-27-2024,4.0
+TXN_10410,CUST_1067,29.0,Female,Home & Kitchen,$15.75,Debit Card,2024-02-23,4.0
+TXN_10411,CUST_1032,22.0,Male, Clothing ,$25.50,UPI,2024-04-10,4.0
+TXN_10412,CUST_1141,18.0,Female, Clothing ,$45.10,PayPal,2024-09-20,3.0
+TXN_10413,CUST_1020,41.0,Female,Home & Kitchen,$25.50,Credit Card,02-22-2024,1.0
+TXN_10414,CUST_1047,-5.0,Female,Electronics,-15.00,,2024-02-29,3.0
+TXN_10415,CUST_1147,29.0,Female, Clothing ,$120.00,PayPal,17/04/2024,2.0
+TXN_10416,CUST_1247,22.0,Female,Home & Kitchen,$120.00,PayPal,,10.0
+TXN_10417,CUST_1127,22.0,M,Electronics,50.0,PayPal,2024-04-12,3.0
+TXN_10418,CUST_1135,18.0,Male,Home & Kitchen,50.0,UPI,Invalid Date,3.0
+TXN_10419,CUST_1134,52.0,F, Clothing ,$25.50,PayPal,,4.0
+TXN_10420,CUST_1194,18.0,Female,Beauty & Care,$25.50,Cash on Delivery,2024-12-30,3.0
+TXN_10421,CUST_1144,29.0,Male,Electronics,50.0,Cash on Delivery,Invalid Date,3.0
+TXN_10422,CUST_1127,22.0,Male,electronics,$15.75,Credit Card,16/02/2024,4.0
+TXN_10423,CUST_1032,29.0,Male,Home & Kitchen,$299.00,PayPal,Invalid Date,5.0
+TXN_10424,CUST_1175,34.0,M,electronics,$25.50,Cash on Delivery,06/11/2024,4.0
+TXN_10425,CUST_1203,41.0,Female,Home & Kitchen,$120.00,PayPal,11-03-2024,1.0
+TXN_10426,CUST_1186,22.0,M,Home & Kitchen,$25.50,Cash on Delivery,23/05/2024,3.0
+TXN_10427,CUST_1114,18.0,Female,Electronics,$25.50,UPI,Invalid Date,4.0
+TXN_10428,CUST_1213,18.0,Female, Clothing ,$15.75,Debit Card,05-03-2024,2.0
+TXN_10429,CUST_1118,52.0,Male, Clothing ,-15.00,Debit Card,15/04/2024,2.0
+TXN_10430,CUST_1021,52.0,Male, Clothing ,$25.50,Cash on Delivery,Invalid Date,5.0
+TXN_10431,CUST_1237,29.0,Female,Beauty & Care,$120.00,Cash on Delivery,2024-05-26,1.0
+TXN_10432,CUST_1157,29.0,Male,Books,$25.50,PayPal,2024-05-24,4.0
+TXN_10433,CUST_1037,34.0,Male,Home & Kitchen,$299.00,Credit Card,2024-04-29,3.0
+TXN_10434,CUST_1229,22.0,Female,Home & Kitchen,,PayPal,2024-11-14,3.0
+TXN_10435,CUST_1108,52.0,Female, Clothing ,$25.50,Debit Card,2024-10-01,1.0
+TXN_10436,CUST_1050,25.0,,Beauty & Care,$120.00,PayPal,,4.0
+TXN_10437,CUST_1181,25.0,MALE,Home & Kitchen,$299.00,Debit Card,2024-02-27,3.0
+TXN_10438,CUST_1007,29.0,Female,Home & Kitchen,$45.10,PayPal,12-11-2024,3.0
+TXN_10439,CUST_1026,18.0,Female,Books,50.0,Debit Card,2024-08-16,4.0
+TXN_10440,CUST_1026,22.0,Female,electronics,$25.50,Credit Card,Invalid Date,4.0
+TXN_10441,CUST_1225,34.0,M,Books,$25.50,Debit Card,,
+TXN_10442,CUST_1020,18.0,Male,Electronics,$999.99,PayPal,05/10/2024,3.0
+TXN_10443,CUST_1029,29.0,Female,electronics,$120.00,Credit Card,Invalid Date,3.0
+TXN_10444,CUST_1096,22.0,F,electronics,$25.50,Credit Card,2024-05-08,
+TXN_10445,CUST_1027,25.0,Female,,$999.99,Debit Card,02-27-2024,4.0
+TXN_10446,CUST_1110,22.0,Female,Books,$25.50,PayPal,2024-05-01,3.0
+TXN_10447,CUST_1191,25.0,Female,Home & Kitchen,$15.75,Credit Card,Invalid Date,2.0
+TXN_10448,CUST_1224,34.0,Male,Home & Kitchen,$120.00,,2024-08-26,4.0
+TXN_10449,CUST_1196,22.0,Male, Clothing ,$25.50,Debit Card,16/10/2024,3.0
+TXN_10450,CUST_1060,29.0,Male,Beauty & Care,$999.99,,04-05-2024,4.0
+TXN_10451,CUST_1047,25.0,Male, Clothing ,$120.00,PayPal,2024-05-05,3.0
+TXN_10452,CUST_1146,34.0,Male, Clothing ,,PayPal,2024-04-27,2.0
+TXN_10453,CUST_1003,60.0,F,Electronics,50.0,UPI,2024-02-17,4.0
+TXN_10454,CUST_1034,34.0,Male,Home & Kitchen,$120.00,PayPal,2024-03-29,1.0
+TXN_10455,CUST_1191,22.0,Female,Home & Kitchen,$15.75,Debit Card,24/08/2024,3.0
+TXN_10456,CUST_1048,18.0,Male, Clothing ,$120.00,Credit Card,2024-09-28,3.0
+TXN_10457,CUST_1016,22.0,MALE,Electronics,$45.10,PayPal,07/07/2024,3.0
+TXN_10458,CUST_1171,29.0,Male,Books,$120.00,Credit Card,2024-07-10,4.0
+TXN_10459,CUST_1219,18.0,Female,Electronics,50.0,Credit Card,03-09-2024,4.0
+TXN_10460,CUST_1157,25.0,F,Home & Kitchen,$25.50,Credit Card,2024-10-04,4.0
+TXN_10461,CUST_1220,29.0,F,,50.0,Credit Card,2024-12-14,1.0
+TXN_10462,CUST_1045,25.0,Male, Clothing ,$299.00,,2024-09-03,2.0
+TXN_10463,CUST_1116,41.0,M,Electronics,$299.00,Credit Card,16/03/2024,3.0
+TXN_10464,CUST_1005,18.0,Female,Home & Kitchen,$120.00,Debit Card,06-02-2024,10.0
+TXN_10465,CUST_1098,18.0,Female,Books,$120.00,Cash on Delivery,23/05/2024,4.0
+TXN_10466,CUST_1123,34.0,Male, Clothing ,$299.00,PayPal,2024-03-26,4.0
+TXN_10467,CUST_1232,25.0,Male,,$45.10,Credit Card,07-03-2024,3.0
+TXN_10468,CUST_1036,34.0,Female,Electronics,$25.50,Debit Card,10-11-2024,3.0
+TXN_10469,CUST_1023,25.0,Female, Clothing ,50.0,Debit Card,2024-08-07,3.0
+TXN_10470,CUST_1092,22.0,Female,Home & Kitchen,$120.00,Debit Card,03-09-2024,2.0
+TXN_10471,CUST_1240,41.0,Female,Books,$299.00,Cash on Delivery,,1.0
+TXN_10472,CUST_1045,41.0,M,Electronics,$25.50,,2024-04-03,10.0
+TXN_10473,CUST_1180,34.0,Male,Books,$120.00,PayPal,08-25-2024,2.0
+TXN_10474,CUST_1094,22.0,Female, Clothing ,$15.75,Credit Card,07-22-2024,2.0
+TXN_10475,CUST_1098,29.0,Male, Clothing ,$25.50,Debit Card,05/08/2024,1.0
+TXN_10476,CUST_1187,25.0,Female,Electronics,50.0,Credit Card,2024-12-06,5.0
+TXN_10477,CUST_1224,18.0,Female,Books,50.0,UPI,2024-02-08,3.0
+TXN_10478,CUST_1115,52.0,,Electronics,$120.00,Credit Card,Invalid Date,4.0
+TXN_10479,CUST_1190,18.0,Male,electronics,$120.00,Credit Card,,5.0
+TXN_10480,CUST_1212,,Male,electronics,50.0,Cash on Delivery,09-10-2024,3.0
+TXN_10481,CUST_1159,25.0,Male,Books,$25.50,PayPal,09/08/2024,4.0
+TXN_10482,CUST_1214,22.0,Male,Home & Kitchen,$999.99,PayPal,22/12/2024,1.0
+TXN_10483,CUST_1160,29.0,Male,Home & Kitchen,$299.00,PayPal,23/01/2024,2.0
+TXN_10484,CUST_1066,52.0,female,electronics,$15.75,UPI,06/09/2024,4.0
+TXN_10485,CUST_1127,34.0,Male,Home & Kitchen,$25.50,Credit Card,2024-01-10,4.0
+TXN_10486,CUST_1017,41.0,Male, Clothing ,$25.50,UPI,09-02-2024,3.0
+TXN_10487,CUST_1024,34.0,Female,Books,$120.00,Credit Card,20/11/2024,3.0
+TXN_10488,CUST_1233,34.0,Female,Beauty & Care,$120.00,Cash on Delivery,04-09-2024,3.0
+TXN_10489,CUST_1222,41.0,M,Electronics,50.0,Cash on Delivery,2024-10-16,1.0
+TXN_10490,CUST_1053,22.0,Male,Home & Kitchen,$15.75,Credit Card,2024-06-28,2.0
+TXN_10491,CUST_1057,25.0,Female,Electronics,$25.50,PayPal,2024-08-10,2.0
+TXN_10492,CUST_1066,22.0,Male, Clothing ,$25.50,Credit Card,06/09/2024,3.0
+TXN_10493,CUST_1103,-5.0,Male,electronics,$120.00,Debit Card,,4.0
+TXN_10494,CUST_1173,60.0,female,electronics,$15.75,PayPal,2024-04-05,3.0
+TXN_10495,CUST_1023,18.0,Male, Clothing ,$25.50,Debit Card,Invalid Date,2.0
+TXN_10496,CUST_1113,34.0,Female,Home & Kitchen,$0.00,Credit Card,20/11/2024,3.0
+TXN_10497,CUST_1031,60.0,Female,electronics,$120.00,Credit Card,01-04-2024,5.0
+TXN_10498,CUST_1174,22.0,Male,Home & Kitchen,$299.00,Credit Card,2024-01-16,2.0
+TXN_10499,CUST_1085,29.0,female, Clothing ,$299.00,Credit Card,10-06-2024,1.0
+TXN_10500,CUST_1150,52.0,Male,Electronics,$120.00,PayPal,12-01-2024,3.0
+TXN_10501,CUST_1193,18.0,Female,Home & Kitchen,$120.00,UPI,2024-09-03,4.0
+TXN_10502,CUST_1126,34.0,,electronics,50.0,Debit Card,2024-09-14,3.0
+TXN_10503,CUST_1154,22.0,Female, Clothing ,$120.00,PayPal,Invalid Date,4.0
+TXN_10504,CUST_1233,60.0,MALE,Home & Kitchen,$15.75,,,
+TXN_10505,CUST_1129,,Male,electronics,$299.00,Debit Card,2024-05-31,4.0
+TXN_10506,CUST_1217,60.0,Female,Electronics,$15.75,UPI,06-26-2024,4.0
+TXN_10507,CUST_1016,25.0,Male, Clothing ,$299.00,PayPal,Invalid Date,3.0
+TXN_10508,CUST_1103,41.0,Female,Beauty & Care,$120.00,Credit Card,Invalid Date,1.0
+TXN_10509,CUST_1160,41.0,,Home & Kitchen,$25.50,Credit Card,,
+TXN_10510,CUST_1136,25.0,Male,Home & Kitchen,$15.75,Debit Card,04-10-2024,3.0
+TXN_10511,CUST_1042,41.0,Female,Home & Kitchen,$120.00,Credit Card,24/09/2024,2.0
+TXN_10512,CUST_1245,18.0,Male,Electronics,$15.75,Credit Card,2024-11-18,4.0
+TXN_10513,CUST_1175,29.0,Female, Clothing ,$120.00,PayPal,2024-03-05,3.0
+TXN_10514,CUST_1038,22.0,Female,Home & Kitchen,$25.50,PayPal,06-16-2024,3.0
+TXN_10515,CUST_1220,18.0,,Electronics,,Debit Card,11-25-2024,3.0
+TXN_10516,CUST_1169,18.0,Female,electronics,$25.50,Credit Card,2024-02-12,3.0
+TXN_10517,CUST_1246,34.0,Male,electronics,,PayPal,Invalid Date,4.0
+TXN_10518,CUST_1025,25.0,Male, Clothing ,,Debit Card,10-11-2024,3.0
+TXN_10519,CUST_1098,34.0,Male,,$15.75,,12/01/2024,3.0
+TXN_10520,CUST_1049,18.0,Male,Electronics,$15.75,Debit Card,04/04/2024,3.0
+TXN_10521,CUST_1152,25.0,Male, Clothing ,$999.99,UPI,28/10/2024,4.0
+TXN_10522,CUST_1151,29.0,F,Electronics,$299.00,Cash on Delivery,2024-09-09,4.0
+TXN_10523,CUST_1012,41.0,Female,,$120.00,PayPal,2024-08-29,3.0
+TXN_10524,CUST_1059,25.0,Female,Electronics,50.0,Credit Card,2024-02-04,4.0
+TXN_10525,CUST_1249,29.0,Male, Clothing ,-15.00,Debit Card,2024-08-02,2.0
+TXN_10526,CUST_1134,52.0,F,Home & Kitchen,50.0,Debit Card,02/12/2024,10.0
+TXN_10527,CUST_1056,29.0,Female,Home & Kitchen,50.0,Debit Card,30/03/2024,3.0
+TXN_10528,CUST_1035,22.0,Male, Clothing ,$120.00,PayPal,2024-09-20,4.0
+TXN_10529,CUST_1172,18.0,Female,electronics,$999.99,PayPal,04-02-2024,1.0
+TXN_10530,CUST_1019,52.0,Female, Clothing ,$299.00,Credit Card,2024-03-30,2.0
+TXN_10531,CUST_1064,18.0,Male,electronics,$120.00,PayPal,Invalid Date,3.0
+TXN_10532,CUST_1007,52.0,Female,Electronics,$45.10,Credit Card,,5.0
+TXN_10533,CUST_1237,29.0,Female, Clothing ,$15.75,Cash on Delivery,2024-07-14,3.0
+TXN_10534,CUST_1143,60.0,Male,electronics,$299.00,Credit Card,09/11/2024,5.0
+TXN_10535,CUST_1141,41.0,MALE,electronics,$999.99,Credit Card,2024-04-23,3.0
+TXN_10536,CUST_1203,150.0,F,Home & Kitchen,$15.75,PayPal,15/03/2024,3.0
+TXN_10537,CUST_1114,25.0,Female,,$25.50,Debit Card,04/08/2024,2.0
+TXN_10538,CUST_1214,34.0,Female,Home & Kitchen,$299.00,PayPal,2024-10-03,4.0
+TXN_10539,CUST_1142,25.0,Female,Electronics,$25.50,Credit Card,05/09/2024,2.0
+TXN_10540,CUST_1091,25.0,Female,Electronics,$299.00,PayPal,2024-06-12,5.0
+TXN_10541,CUST_1097,29.0,Female,Beauty & Care,,Credit Card,2024-12-22,5.0
+TXN_10542,CUST_1065,52.0,Male,electronics,$120.00,UPI,07-10-2024,10.0
+TXN_10543,CUST_1031,-5.0,Female,Electronics,$120.00,UPI,2024-08-14,3.0
+TXN_10544,CUST_1214,34.0,M, Clothing ,$15.75,PayPal,25/06/2024,4.0
+TXN_10545,CUST_1190,25.0,Female,Home & Kitchen,$120.00,Credit Card,08/04/2024,4.0
+TXN_10546,CUST_1085,25.0,Male,Home & Kitchen,$299.00,Debit Card,,2.0
+TXN_10547,CUST_1050,34.0,M,electronics,$25.50,Credit Card,2024-04-05,4.0
+TXN_10548,CUST_1152,22.0,Male,Electronics,$25.50,PayPal,31/05/2024,1.0
+TXN_10549,CUST_1185,18.0,Male,,,Credit Card,05-30-2024,3.0
+TXN_10550,CUST_1062,25.0,Male,electronics,$15.75,UPI,08/07/2024,2.0
+TXN_10551,CUST_1189,22.0,Male,Home & Kitchen,$299.00,Credit Card,,2.0
+TXN_10552,CUST_1124,22.0,Female,Home & Kitchen,$120.00,PayPal,02-06-2024,3.0
+TXN_10553,CUST_1149,22.0,Female,Home & Kitchen,$15.75,Debit Card,09-24-2024,3.0
+TXN_10554,CUST_1057,18.0,Male,electronics,$999.99,PayPal,07-01-2024,4.0
+TXN_10555,CUST_1057,18.0,F,electronics,-15.00,Credit Card,,1.0
+TXN_10556,CUST_1085,-5.0,F, Clothing ,$15.75,,Invalid Date,3.0
+TXN_10557,CUST_1048,25.0,F,Books,$999.99,PayPal,08-04-2024,2.0
+TXN_10558,CUST_1179,25.0,Male,Beauty & Care,50.0,Debit Card,12-20-2024,3.0
+TXN_10559,CUST_1169,34.0,Female,Electronics,$120.00,Credit Card,2024-12-26,4.0
+TXN_10560,CUST_1069,22.0,,Electronics,$15.75,PayPal,2024-10-12,3.0
+TXN_10561,CUST_1014,60.0,M,Beauty & Care,$120.00,PayPal,29/09/2024,4.0
+TXN_10562,CUST_1053,41.0,Male,Home & Kitchen,$15.75,Credit Card,2024-03-02,3.0
+TXN_10563,CUST_1234,18.0,Male,Books,$120.00,Credit Card,24/03/2024,4.0
+TXN_10564,CUST_1187,25.0,Female,Electronics,-15.00,Cash on Delivery,2024-08-04,3.0
+TXN_10565,CUST_1100,52.0,female, Clothing ,$15.75,Credit Card,2024-12-07,3.0
+TXN_10566,CUST_1224,60.0,Female,Home & Kitchen,$120.00,Credit Card,07-05-2024,4.0
+TXN_10567,CUST_1007,25.0,Female,Home & Kitchen,$25.50,PayPal,,1.0
+TXN_10568,CUST_1052,29.0,Male, Clothing ,$25.50,Cash on Delivery,2024-06-25,4.0
+TXN_10569,CUST_1059,22.0,Female,Electronics,-15.00,Credit Card,09/04/2024,4.0
+TXN_10570,CUST_1235,150.0,F, Clothing ,$299.00,PayPal,Invalid Date,3.0
+TXN_10571,CUST_1107,22.0,Female,electronics,$25.50,Credit Card,2024-03-16,1.0
+TXN_10572,CUST_1004,60.0,M, Clothing ,$15.75,Credit Card,09-21-2024,1.0
+TXN_10573,CUST_1102,29.0,,Beauty & Care,$120.00,Credit Card,10/10/2024,5.0
+TXN_10574,CUST_1195,29.0,Male, Clothing ,50.0,Cash on Delivery,2024-07-24,4.0
+TXN_10575,CUST_1005,29.0,Female,Books,$45.10,Credit Card,,2.0
+TXN_10576,CUST_1108,22.0,Male,Electronics,$120.00,Credit Card,2024-02-21,3.0
+TXN_10577,CUST_1223,22.0,M,Home & Kitchen,50.0,PayPal,12-04-2024,3.0
+TXN_10578,CUST_1115,22.0,Female,,$25.50,Cash on Delivery,05-23-2024,4.0
+TXN_10579,CUST_1093,22.0,Female,Electronics,$25.50,Credit Card,2024-03-09,1.0
+TXN_10580,CUST_1046,41.0,M,Electronics,$120.00,PayPal,04-08-2024,2.0
+TXN_10581,CUST_1098,25.0,Female, Clothing ,$25.50,Credit Card,,5.0
+TXN_10582,CUST_1054,18.0,female,Electronics,$0.00,PayPal,2024-02-22,1.0
+TXN_10583,CUST_1167,,Female,Home & Kitchen,50.0,PayPal,Invalid Date,2.0
+TXN_10584,CUST_1051,52.0,Male,Beauty & Care,50.0,PayPal,23/05/2024,
+TXN_10585,CUST_1143,60.0,Female, Clothing ,$25.50,Credit Card,26/02/2024,4.0
+TXN_10586,CUST_1012,150.0,M,electronics,$120.00,Credit Card,08/02/2024,3.0
+TXN_10587,CUST_1113,22.0,Male, Clothing ,$15.75,Credit Card,2024-04-18,1.0
+TXN_10588,CUST_1123,25.0,F,Home & Kitchen,,PayPal,,1.0
+TXN_10589,CUST_1105,34.0,female,Electronics,$25.50,Credit Card,,2.0
+TXN_10590,CUST_1157,34.0,Male, Clothing ,$299.00,Cash on Delivery,04/07/2024,5.0
+TXN_10591,CUST_1146,22.0,,Home & Kitchen,$999.99,,08-10-2024,3.0
+TXN_10592,CUST_1144,41.0,Male,Home & Kitchen,$999.99,,01/05/2024,4.0
+TXN_10593,CUST_1119,22.0,Male,Electronics,50.0,UPI,12/05/2024,5.0
+TXN_10594,CUST_1062,22.0,Male,Home & Kitchen,$25.50,Debit Card,06-11-2024,3.0
+TXN_10595,CUST_1018,29.0,female,Electronics,$25.50,Debit Card,02/08/2024,2.0
+TXN_10596,CUST_1091,29.0,Female,Electronics,-15.00,Credit Card,08/08/2024,3.0
+TXN_10597,CUST_1057,29.0,Male,Books,$120.00,Debit Card,08-22-2024,5.0
+TXN_10598,CUST_1182,18.0,Female,Home & Kitchen,$45.10,PayPal,26/11/2024,4.0
+TXN_10599,CUST_1089,52.0,Female,Electronics,50.0,PayPal,2024-05-25,1.0
+TXN_10600,CUST_1228,22.0,Male,Electronics,$25.50,Cash on Delivery,2024-08-26,4.0
+TXN_10601,CUST_1217,18.0,female,Electronics,$15.75,Credit Card,16/03/2024,3.0
+TXN_10602,CUST_1116,52.0,M,electronics,$120.00,Credit Card,01-09-2024,5.0
+TXN_10603,CUST_1061,,Female,Electronics,50.0,UPI,14/03/2024,2.0
+TXN_10604,CUST_1022,41.0,,Electronics,$15.75,Credit Card,09-09-2024,3.0
+TXN_10605,CUST_1126,41.0,Female, Clothing ,$45.10,PayPal,17/08/2024,5.0
+TXN_10606,CUST_1136,34.0,,Home & Kitchen,$15.75,UPI,07/01/2024,3.0
+TXN_10607,CUST_1139,29.0,Female,Home & Kitchen,$15.75,Debit Card,2024-06-22,3.0
+TXN_10608,CUST_1244,18.0,Female,Home & Kitchen,$15.75,PayPal,20/05/2024,1.0
+TXN_10609,CUST_1128,25.0,Male,Electronics,$45.10,Credit Card,06-16-2024,3.0
+TXN_10610,CUST_1057,25.0,female,Beauty & Care,$120.00,Credit Card,Invalid Date,3.0
+TXN_10611,CUST_1121,22.0,Female,Books,$25.50,UPI,09/10/2024,10.0
+TXN_10612,CUST_1000,34.0,Male,Books,$120.00,PayPal,2024-05-01,3.0
+TXN_10613,CUST_1238,25.0,Male,Books,$120.00,PayPal,2024-07-12,3.0
+TXN_10614,CUST_1033,18.0,Female,Beauty & Care,$15.75,Credit Card,2024-01-05,4.0
+TXN_10615,CUST_1095,22.0,Female, Clothing ,$0.00,Credit Card,01-29-2024,2.0
+TXN_10616,CUST_1125,34.0,Female,Electronics,$999.99,,2024-06-13,3.0
+TXN_10617,CUST_1117,18.0,female,Home & Kitchen,$25.50,PayPal,04/12/2024,4.0
+TXN_10618,CUST_1047,41.0,Male,Home & Kitchen,$15.75,Debit Card,15/05/2024,5.0
+TXN_10619,CUST_1088,25.0,Female,Home & Kitchen,$120.00,Credit Card,2024-12-30,4.0
+TXN_10620,CUST_1231,25.0,Male, Clothing ,$15.75,Debit Card,16/11/2024,4.0
+TXN_10621,CUST_1236,29.0,F,Electronics,$999.99,UPI,2024-12-07,2.0
+TXN_10622,CUST_1116,41.0,M, Clothing ,$120.00,PayPal,24/05/2024,10.0
+TXN_10623,CUST_1128,25.0,Female,Beauty & Care,$25.50,Credit Card,2024-11-22,2.0
+TXN_10624,CUST_1015,34.0,Female, Clothing ,$25.50,PayPal,08-04-2024,4.0
+TXN_10625,CUST_1188,29.0,Male, Clothing ,$299.00,Cash on Delivery,2024-10-27,3.0
+TXN_10626,CUST_1230,22.0,Female,electronics,$45.10,PayPal,,10.0
+TXN_10627,CUST_1191,52.0,F, Clothing ,$0.00,UPI,18/10/2024,4.0
+TXN_10628,CUST_1190,41.0,Female,Books,$25.50,Debit Card,03-10-2024,4.0
+TXN_10629,CUST_1068,34.0,Male,Home & Kitchen,50.0,UPI,08/09/2024,2.0
+TXN_10630,CUST_1021,41.0,Female,Home & Kitchen,$15.75,Debit Card,10-01-2024,3.0
+TXN_10631,CUST_1092,41.0,F, Clothing ,$15.75,Credit Card,12-29-2024,4.0
+TXN_10632,CUST_1246,34.0,Male,Home & Kitchen,$25.50,Credit Card,30/06/2024,4.0
+TXN_10633,CUST_1194,41.0,Male,Electronics,$25.50,Credit Card,15/06/2024,2.0
+TXN_10634,CUST_1075,34.0,Female,Home & Kitchen,$15.75,UPI,31/03/2024,
+TXN_10635,CUST_1153,34.0,F, Clothing ,$120.00,Cash on Delivery,20/07/2024,5.0
+TXN_10636,CUST_1143,29.0,Male, Clothing ,$120.00,Debit Card,2024-12-11,3.0
+TXN_10637,CUST_1178,34.0,Male,Home & Kitchen,$25.50,Credit Card,19/01/2024,4.0
+TXN_10638,CUST_1228,22.0,Male,Beauty & Care,50.0,Credit Card,08/02/2024,3.0
+TXN_10639,CUST_1085,52.0,Male,Electronics,$299.00,Cash on Delivery,05/05/2024,3.0
+TXN_10640,CUST_1184,52.0,Female,Books,,PayPal,06-21-2024,3.0
+TXN_10641,CUST_1028,18.0,Female,electronics,$999.99,Credit Card,05-20-2024,3.0
+TXN_10642,CUST_1205,41.0,Female, Clothing ,50.0,Debit Card,,4.0
+TXN_10643,CUST_1219,18.0,Female,Electronics,$25.50,Credit Card,2024-08-07,3.0
+TXN_10644,CUST_1068,25.0,Male,electronics,50.0,Credit Card,05/05/2024,4.0
+TXN_10645,CUST_1046,34.0,F, Clothing ,$120.00,PayPal,27/02/2024,4.0
+TXN_10646,CUST_1240,22.0,Female,Electronics,-15.00,Credit Card,27/05/2024,4.0
+TXN_10647,CUST_1093,41.0,, Clothing ,$120.00,,11-12-2024,1.0
+TXN_10648,CUST_1237,41.0,Female,Beauty & Care,$120.00,Credit Card,2024-12-26,5.0
+TXN_10649,CUST_1189,29.0,Male,Electronics,$25.50,Credit Card,01-01-2024,3.0
+TXN_10650,CUST_1243,18.0,Female,Home & Kitchen,$120.00,Credit Card,13/12/2024,3.0
+TXN_10651,CUST_1196,22.0,Male, Clothing ,$25.50,Cash on Delivery,08/07/2024,2.0
+TXN_10652,CUST_1203,29.0,Female,Home & Kitchen,$25.50,PayPal,09/07/2024,3.0
+TXN_10653,CUST_1143,-5.0,Male,electronics,,PayPal,07/11/2024,5.0
+TXN_10654,CUST_1217,29.0,Male,Electronics,50.0,Credit Card,26/04/2024,3.0
+TXN_10655,CUST_1217,22.0,F,Electronics,50.0,Credit Card,13/05/2024,4.0
+TXN_10656,CUST_1175,29.0,Male,Electronics,$299.00,PayPal,2024-02-27,1.0
+TXN_10657,CUST_1084,29.0,F,Electronics,,Cash on Delivery,13/02/2024,3.0
+TXN_10658,CUST_1038,41.0,Male,Home & Kitchen,$999.99,UPI,2024-06-21,
+TXN_10659,CUST_1099,18.0,Female,Books,$299.00,Credit Card,08/06/2024,4.0
+TXN_10660,CUST_1032,34.0,Female,Books,$120.00,PayPal,21/06/2024,2.0
+TXN_10661,CUST_1221,29.0,Female,Home & Kitchen,$120.00,UPI,12/11/2024,3.0
+TXN_10662,CUST_1100,,Male,Electronics,50.0,PayPal,10-29-2024,2.0
+TXN_10663,CUST_1022,25.0,Male,electronics,$15.75,Cash on Delivery,2024-05-28,3.0
+TXN_10664,CUST_1249,29.0,Male,electronics,$15.75,Credit Card,03-20-2024,4.0
+TXN_10665,CUST_1009,60.0,Male,Electronics,$120.00,UPI,2024-07-31,4.0
+TXN_10666,CUST_1245,18.0,Female, Clothing ,$25.50,Cash on Delivery,21/07/2024,2.0
+TXN_10667,CUST_1068,60.0,MALE, Clothing ,$0.00,UPI,Invalid Date,5.0
+TXN_10668,CUST_1099,34.0,F, Clothing ,$25.50,Debit Card,2024-08-16,3.0
+TXN_10669,CUST_1033,18.0,M, Clothing ,$999.99,PayPal,12/06/2024,3.0
+TXN_10670,CUST_1179,25.0,M,Books,$15.75,UPI,14/08/2024,3.0
+TXN_10671,CUST_1222,34.0,Female,Home & Kitchen,$15.75,Credit Card,26/05/2024,4.0
+TXN_10672,CUST_1137,18.0,Male,electronics,$15.75,Credit Card,2024-01-20,3.0
+TXN_10673,CUST_1249,29.0,female,Beauty & Care,$299.00,Debit Card,2024-02-16,3.0
+TXN_10674,CUST_1146,25.0,Female,Beauty & Care,50.0,Cash on Delivery,Invalid Date,3.0
+TXN_10675,CUST_1185,29.0,Female,electronics,$15.75,UPI,31/10/2024,2.0
+TXN_10676,CUST_1095,18.0,Male, Clothing ,-15.00,Credit Card,2024-01-14,4.0
+TXN_10677,CUST_1000,52.0,Female, Clothing ,$25.50,Cash on Delivery,22/05/2024,3.0
+TXN_10678,CUST_1247,,Female,Beauty & Care,$25.50,Debit Card,01-01-2024,2.0
+TXN_10679,CUST_1068,,F,Books,$120.00,Credit Card,2024-02-23,4.0
+TXN_10680,CUST_1236,34.0,Female,Electronics,50.0,PayPal,15/09/2024,10.0
+TXN_10681,CUST_1003,18.0,Female, Clothing ,-15.00,Credit Card,23/05/2024,10.0
+TXN_10682,CUST_1015,34.0,, Clothing ,$299.00,Credit Card,,3.0
+TXN_10683,CUST_1023,18.0,Male, Clothing ,$25.50,,2024-11-25,2.0
+TXN_10684,CUST_1079,18.0,Female,Electronics,$25.50,Debit Card,11/08/2024,3.0
+TXN_10685,CUST_1246,25.0,Male,Books,,Debit Card,28/09/2024,2.0
+TXN_10686,CUST_1001,25.0,Female,Home & Kitchen,$25.50,,23/12/2024,10.0
+TXN_10687,CUST_1240,41.0,female,Books,50.0,PayPal,04/06/2024,2.0
+TXN_10688,CUST_1219,34.0,Male,Books,$999.99,Cash on Delivery,08/01/2024,3.0
+TXN_10689,CUST_1127,25.0,F,Home & Kitchen,50.0,PayPal,05-01-2024,3.0
+TXN_10690,CUST_1159,22.0,Male, Clothing ,$25.50,UPI,12-13-2024,3.0
+TXN_10691,CUST_1218,150.0,female,Home & Kitchen,$25.50,Credit Card,12/06/2024,4.0
+TXN_10692,CUST_1083,25.0,Female,Electronics,$25.50,UPI,Invalid Date,3.0
+TXN_10693,CUST_1151,25.0,M,Home & Kitchen,$999.99,Credit Card,15/05/2024,2.0
+TXN_10694,CUST_1139,22.0,Male,Electronics,50.0,Credit Card,04/07/2024,3.0
+TXN_10695,CUST_1177,41.0,,Home & Kitchen,$120.00,Cash on Delivery,2024-11-11,3.0
+TXN_10696,CUST_1162,34.0,Female,Electronics,$0.00,PayPal,,2.0
+TXN_10697,CUST_1123,22.0,Male,Electronics,$299.00,Debit Card,2024-01-28,4.0
+TXN_10698,CUST_1032,18.0,F,Electronics,$25.50,PayPal,2024-08-07,3.0
+TXN_10699,CUST_1160,34.0,Male,Electronics,50.0,Debit Card,2024-12-22,4.0
+TXN_10700,CUST_1188,34.0,F,Home & Kitchen,$15.75,Credit Card,10/02/2024,10.0
+TXN_10701,CUST_1178,22.0,Male,Home & Kitchen,$120.00,Credit Card,2024-08-15,5.0
+TXN_10702,CUST_1170,,Female, Clothing ,$120.00,Credit Card,2024-07-10,10.0
+TXN_10703,CUST_1100,22.0,Female,Electronics,-15.00,PayPal,2024-05-24,2.0
+TXN_10704,CUST_1011,25.0,Male,Electronics,$299.00,Credit Card,2024-07-19,2.0
+TXN_10705,CUST_1066,60.0,Male,Electronics,$299.00,PayPal,30/07/2024,3.0
+TXN_10706,CUST_1064,25.0,Male,Electronics,$999.99,PayPal,08-07-2024,5.0
+TXN_10707,CUST_1160,29.0,Female,Books,$15.75,Credit Card,27/08/2024,
+TXN_10708,CUST_1167,25.0,Male,Electronics,$120.00,PayPal,15/02/2024,5.0
+TXN_10709,CUST_1073,22.0,Female, Clothing ,$0.00,UPI,02-04-2024,2.0
+TXN_10710,CUST_1042,-5.0,Male,Electronics,50.0,Credit Card,2024-09-09,10.0
+TXN_10711,CUST_1043,25.0,Male,Electronics,$25.50,PayPal,2024-03-22,3.0
+TXN_10712,CUST_1028,52.0,Female, Clothing ,$15.75,Debit Card,,1.0
+TXN_10713,CUST_1140,22.0,Male,Home & Kitchen,$999.99,PayPal,15/07/2024,3.0
+TXN_10714,CUST_1011,22.0,female,Electronics,$120.00,Debit Card,2024-10-29,1.0
+TXN_10715,CUST_1094,18.0,F,Electronics,$45.10,PayPal,10/01/2024,3.0
+TXN_10716,CUST_1045,34.0,Female, Clothing ,$25.50,PayPal,2024-11-07,3.0
+TXN_10717,CUST_1129,25.0,Female,Electronics,$120.00,Credit Card,12/10/2024,3.0
+TXN_10718,CUST_1242,41.0,female,Electronics,$25.50,Debit Card,2024-08-29,4.0
+TXN_10719,CUST_1241,25.0,Male,Beauty & Care,$15.75,Debit Card,2024-09-07,5.0
+TXN_10720,CUST_1034,,Male,Home & Kitchen,$15.75,Credit Card,2024-12-30,4.0
+TXN_10721,CUST_1214,22.0,Male, Clothing ,$120.00,PayPal,,3.0
+TXN_10722,CUST_1080,41.0,M, Clothing ,$15.75,,04-28-2024,4.0
+TXN_10723,CUST_1089,41.0,Male, Clothing ,$120.00,PayPal,2024-10-15,5.0
+TXN_10724,CUST_1007,41.0,Female, Clothing ,$15.75,PayPal,2024-03-05,2.0
+TXN_10725,CUST_1092,41.0,,Home & Kitchen,50.0,UPI,05-25-2024,3.0
+TXN_10726,CUST_1153,34.0,F,Home & Kitchen,50.0,Debit Card,2024-08-11,3.0
+TXN_10727,CUST_1201,29.0,Female,Electronics,$45.10,PayPal,2024-08-26,1.0
+TXN_10728,CUST_1089,18.0,Male, Clothing ,$120.00,Cash on Delivery,,4.0
+TXN_10729,CUST_1161,18.0,F, Clothing ,$25.50,UPI,2024-09-23,5.0
+TXN_10730,CUST_1114,60.0,Female,Books,$999.99,PayPal,12-06-2024,2.0
+TXN_10731,CUST_1104,29.0,Male,Home & Kitchen,,PayPal,,4.0
+TXN_10732,CUST_1134,41.0,Male, Clothing ,$120.00,PayPal,03/03/2024,5.0
+TXN_10733,CUST_1195,25.0,female,Electronics,$25.50,,2024-08-04,5.0
+TXN_10734,CUST_1057,18.0,Female,Home & Kitchen,$120.00,Debit Card,2024-12-07,3.0
+TXN_10735,CUST_1244,18.0,F,Electronics,50.0,Credit Card,11-10-2024,5.0
+TXN_10736,CUST_1113,34.0,F,electronics,$25.50,UPI,Invalid Date,3.0
+TXN_10737,CUST_1236,25.0,Female,Electronics,$15.75,PayPal,06-25-2024,3.0
+TXN_10738,CUST_1074,22.0,Female,Home & Kitchen,,Credit Card,2024-04-07,1.0
+TXN_10739,CUST_1156,25.0,Female,Electronics,50.0,PayPal,04-14-2024,1.0
+TXN_10740,CUST_1119,18.0,Male, Clothing ,$120.00,PayPal,Invalid Date,4.0
+TXN_10741,CUST_1163,29.0,Female,Books,50.0,UPI,06/11/2024,3.0
+TXN_10742,CUST_1216,22.0,M,Electronics,$25.50,Credit Card,,3.0
+TXN_10743,CUST_1020,41.0,Female, Clothing ,$299.00,Cash on Delivery,07-15-2024,2.0
+TXN_10744,CUST_1248,25.0,female, Clothing ,50.0,PayPal,12-16-2024,4.0
+TXN_10745,CUST_1163,25.0,Female,Electronics,$120.00,Credit Card,12/05/2024,1.0
+TXN_10746,CUST_1137,18.0,Female,Home & Kitchen,$15.75,,2024-12-23,4.0
+TXN_10747,CUST_1100,18.0,Female,Electronics,50.0,PayPal,2024-09-15,1.0
+TXN_10748,CUST_1200,25.0,Female, Clothing ,$0.00,Credit Card,23/01/2024,2.0
+TXN_10749,CUST_1151,25.0,Female, Clothing ,$25.50,PayPal,2024-02-22,3.0
+TXN_10750,CUST_1191,29.0,Male,Home & Kitchen,$299.00,UPI,Invalid Date,3.0
+TXN_10751,CUST_1226,22.0,Female,Home & Kitchen,$45.10,Credit Card,,3.0
+TXN_10752,CUST_1176,34.0,Male,electronics,$0.00,Credit Card,03-23-2024,3.0
+TXN_10753,CUST_1098,41.0,Female,Electronics,,Credit Card,2024-05-24,
+TXN_10754,CUST_1239,41.0,Female,Home & Kitchen,$25.50,Credit Card,2024-03-25,4.0
+TXN_10755,CUST_1035,18.0,Female, Clothing ,50.0,Cash on Delivery,2024-03-18,1.0
+TXN_10756,CUST_1209,25.0,,Books,-15.00,PayPal,12-31-2024,3.0
+TXN_10757,CUST_1240,18.0,Female,Books,$999.99,Credit Card,01-01-2024,5.0
+TXN_10758,CUST_1230,22.0,Female,Books,50.0,Credit Card,Invalid Date,3.0
+TXN_10759,CUST_1095,-5.0,Female, Clothing ,$120.00,Credit Card,21/06/2024,1.0
+TXN_10760,CUST_1151,18.0,Female,electronics,$25.50,UPI,Invalid Date,4.0
+TXN_10761,CUST_1150,25.0,Male,Home & Kitchen,$120.00,Credit Card,Invalid Date,4.0
+TXN_10762,CUST_1189,29.0,Male, Clothing ,$25.50,,2024-10-14,3.0
+TXN_10763,CUST_1223,34.0,Male,Electronics,$15.75,PayPal,Invalid Date,1.0
+TXN_10764,CUST_1036,29.0,Female,Books,$120.00,Credit Card,13/12/2024,2.0
+TXN_10765,CUST_1011,18.0,Male,Books,$25.50,UPI,2024-04-04,4.0
+TXN_10766,CUST_1112,25.0,Male, Clothing ,$999.99,PayPal,12/03/2024,2.0
+TXN_10767,CUST_1182,29.0,Male,Electronics,$999.99,Debit Card,2024-02-08,3.0
+TXN_10768,CUST_1012,18.0,, Clothing ,$299.00,,02/06/2024,3.0
+TXN_10769,CUST_1022,25.0,Male,Books,$999.99,Credit Card,06/09/2024,3.0
+TXN_10770,CUST_1216,18.0,Female,Beauty & Care,$120.00,Credit Card,10/06/2024,10.0
+TXN_10771,CUST_1098,18.0,Male,Electronics,$299.00,Debit Card,27/04/2024,4.0
+TXN_10772,CUST_1104,25.0,Female,Electronics,50.0,Credit Card,15/09/2024,4.0
+TXN_10773,CUST_1029,18.0,Male,Books,$25.50,Credit Card,01/11/2024,1.0
+TXN_10774,CUST_1016,29.0,Male, Clothing ,$999.99,Credit Card,24/09/2024,2.0
+TXN_10775,CUST_1112,34.0,Female, Clothing ,$45.10,Credit Card,23/02/2024,3.0
+TXN_10776,CUST_1061,41.0,Male,,$120.00,Cash on Delivery,2024-08-23,2.0
+TXN_10777,CUST_1083,22.0,Male,Electronics,$120.00,Credit Card,09/08/2024,
+TXN_10778,CUST_1111,22.0,Male,Home & Kitchen,$25.50,PayPal,2024-09-07,2.0
+TXN_10779,CUST_1216,18.0,Male,Electronics,$25.50,Debit Card,08/11/2024,3.0
+TXN_10780,CUST_1085,29.0,Male, Clothing ,50.0,PayPal,04-21-2024,3.0
+TXN_10781,CUST_1140,34.0,Male,Books,$999.99,Credit Card,11/09/2024,4.0
+TXN_10782,CUST_1186,18.0,M, Clothing ,$25.50,Cash on Delivery,29/10/2024,2.0
+TXN_10783,CUST_1018,60.0,Female,,$45.10,Credit Card,,3.0
+TXN_10784,CUST_1176,18.0,Female, Clothing ,$15.75,Cash on Delivery,08-16-2024,3.0
+TXN_10785,CUST_1099,29.0,Male,electronics,$999.99,UPI,Invalid Date,5.0
+TXN_10786,CUST_1139,34.0,MALE,Electronics,$299.00,PayPal,03-06-2024,1.0
+TXN_10787,CUST_1188,52.0,Female, Clothing ,$25.50,PayPal,2024-03-15,5.0
+TXN_10788,CUST_1232,34.0,Male, Clothing ,50.0,PayPal,2024-04-12,4.0
+TXN_10789,CUST_1146,41.0,Female,Electronics,$0.00,PayPal,10/07/2024,3.0
+TXN_10790,CUST_1075,25.0,Male, Clothing ,$299.00,UPI,2024-09-08,4.0
+TXN_10791,CUST_1008,41.0,Male, Clothing ,$15.75,UPI,13/08/2024,1.0
+TXN_10792,CUST_1198,18.0,Female,Home & Kitchen,$120.00,Credit Card,20/10/2024,
+TXN_10793,CUST_1027,52.0,F,Home & Kitchen,$45.10,Debit Card,01/11/2024,3.0
+TXN_10794,CUST_1205,29.0,Female,Home & Kitchen,$25.50,UPI,04-07-2024,3.0
+TXN_10795,CUST_1222,41.0,Female,Electronics,$299.00,,12-03-2024,3.0
+TXN_10796,CUST_1127,25.0,,Electronics,,PayPal,12/10/2024,1.0
+TXN_10797,CUST_1051,29.0,Male,Home & Kitchen,$25.50,PayPal,11-30-2024,
+TXN_10798,CUST_1082,29.0,Male, Clothing ,$15.75,Credit Card,12/12/2024,1.0
+TXN_10799,CUST_1249,34.0,Female,Electronics,$25.50,,Invalid Date,4.0
+TXN_10800,CUST_1110,18.0,Female,Books,50.0,Credit Card,2024-09-05,3.0
+TXN_10801,CUST_1143,18.0,Female,Home & Kitchen,50.0,PayPal,,10.0
+TXN_10802,CUST_1116,22.0,female, Clothing ,$999.99,Credit Card,11-30-2024,2.0
+TXN_10803,CUST_1068,22.0,Female,Electronics,$45.10,Credit Card,30/01/2024,3.0
+TXN_10804,CUST_1098,52.0,Female,Home & Kitchen,$15.75,PayPal,2024-09-03,3.0
+TXN_10805,CUST_1139,22.0,Male, Clothing ,50.0,,15/04/2024,4.0
+TXN_10806,CUST_1024,,F,Home & Kitchen,$299.00,Credit Card,2024-02-20,1.0
+TXN_10807,CUST_1179,25.0,,Home & Kitchen,,PayPal,2024-03-21,2.0
+TXN_10808,CUST_1122,22.0,F,Books,$25.50,Credit Card,12/05/2024,2.0
+TXN_10809,CUST_1212,41.0,Male, Clothing ,,Credit Card,11/10/2024,4.0
+TXN_10810,CUST_1227,34.0,Female,Electronics,$25.50,PayPal,05-17-2024,2.0
+TXN_10811,CUST_1052,25.0,Male,Home & Kitchen,$299.00,PayPal,Invalid Date,3.0
+TXN_10812,CUST_1150,29.0,Male,Home & Kitchen,$120.00,Credit Card,25/11/2024,2.0
+TXN_10813,CUST_1143,34.0,Male,Home & Kitchen,$25.50,Credit Card,29/09/2024,5.0
+TXN_10814,CUST_1056,22.0,Female,Electronics,50.0,Credit Card,2024-12-05,10.0
+TXN_10815,CUST_1038,150.0,Female,Electronics,$0.00,Credit Card,03-09-2024,3.0
+TXN_10816,CUST_1108,,Male,Books,$120.00,,03/02/2024,3.0
+TXN_10817,CUST_1180,34.0,Female,Home & Kitchen,$25.50,UPI,,2.0
+TXN_10818,CUST_1041,22.0,Female,Beauty & Care,$999.99,Credit Card,02-22-2024,1.0
+TXN_10819,CUST_1185,34.0,Male,Home & Kitchen,$45.10,PayPal,23/07/2024,3.0
+TXN_10820,CUST_1166,18.0,Male, Clothing ,$120.00,UPI,2024-05-05,4.0
+TXN_10821,CUST_1141,18.0,Female,Home & Kitchen,$120.00,Credit Card,Invalid Date,3.0
+TXN_10822,CUST_1222,22.0,Female,Books,50.0,Cash on Delivery,02-12-2024,10.0
+TXN_10823,CUST_1121,25.0,Male, Clothing ,$25.50,UPI,2024-08-27,3.0
+TXN_10824,CUST_1132,41.0,Male,Home & Kitchen,$299.00,Credit Card,2024-04-20,4.0
+TXN_10825,CUST_1162,34.0,Male,Electronics,$299.00,Credit Card,09-05-2024,3.0
+TXN_10826,CUST_1214,34.0,MALE, Clothing ,$999.99,,2024-05-30,3.0
+TXN_10827,CUST_1220,25.0,Female,Home & Kitchen,$120.00,PayPal,Invalid Date,3.0
+TXN_10828,CUST_1234,25.0,Female,electronics,$15.75,Credit Card,01/12/2024,3.0
+TXN_10829,CUST_1074,25.0,Male,Electronics,$999.99,Credit Card,2024-04-04,3.0
+TXN_10830,CUST_1145,-5.0,Female,electronics,$299.00,PayPal,01-08-2024,4.0
+TXN_10831,CUST_1238,18.0,Male,Electronics,$0.00,Debit Card,25/12/2024,10.0
+TXN_10832,CUST_1075,41.0,Female,Electronics,$15.75,Debit Card,02/07/2024,3.0
+TXN_10833,CUST_1008,29.0,female, Clothing ,$999.99,,2024-10-07,1.0
+TXN_10834,CUST_1073,25.0,Female,Beauty & Care,50.0,Credit Card,2024-07-13,3.0
+TXN_10835,CUST_1185,34.0,F, Clothing ,,PayPal,17/12/2024,3.0
+TXN_10836,CUST_1235,25.0,Female,Electronics,50.0,PayPal,13/07/2024,2.0
+TXN_10837,CUST_1144,52.0,Male,Electronics,-15.00,PayPal,03/06/2024,4.0
+TXN_10838,CUST_1229,52.0,female,Home & Kitchen,$120.00,Credit Card,04-02-2024,
+TXN_10839,CUST_1006,25.0,Male, Clothing ,-15.00,,08/06/2024,10.0
+TXN_10840,CUST_1173,22.0,Female,Books,$999.99,UPI,2024-03-01,2.0
+TXN_10841,CUST_1140,29.0,Male,Home & Kitchen,$25.50,PayPal,01/05/2024,5.0
+TXN_10842,CUST_1167,52.0,Male,Home & Kitchen,$25.50,Debit Card,Invalid Date,4.0
+TXN_10843,CUST_1169,22.0,Female,electronics,-15.00,Credit Card,10-03-2024,3.0
+TXN_10844,CUST_1136,29.0,Male,Home & Kitchen,$15.75,PayPal,05/01/2024,3.0
+TXN_10845,CUST_1177,29.0,Female,electronics,50.0,Debit Card,2024-04-01,4.0
+TXN_10846,CUST_1026,34.0,Female,Beauty & Care,$120.00,PayPal,2024-06-18,3.0
+TXN_10847,CUST_1121,18.0,Male,Home & Kitchen,$15.75,,11-12-2024,3.0
+TXN_10848,CUST_1193,34.0,Male,electronics,$25.50,Debit Card,Invalid Date,3.0
+TXN_10849,CUST_1004,52.0,Female,electronics,50.0,PayPal,11-21-2024,3.0
+TXN_10850,CUST_1028,22.0,Male,Electronics,$25.50,Cash on Delivery,01-01-2024,2.0
+TXN_10851,CUST_1164,22.0,Female,Home & Kitchen,$25.50,Credit Card,05-12-2024,5.0
+TXN_10852,CUST_1165,,Female,Electronics,$120.00,PayPal,2024-08-20,4.0
+TXN_10853,CUST_1082,22.0,F, Clothing ,$120.00,Credit Card,12/01/2024,4.0
+TXN_10854,CUST_1135,41.0,Female,electronics,$25.50,PayPal,2024-12-11,1.0
+TXN_10855,CUST_1239,25.0,Female,Home & Kitchen,$120.00,Cash on Delivery,2024-02-15,4.0
+TXN_10856,CUST_1108,22.0,Female,Books,50.0,PayPal,Invalid Date,2.0
+TXN_10857,CUST_1064,52.0,Male,Home & Kitchen,50.0,Cash on Delivery,18/03/2024,1.0
+TXN_10858,CUST_1085,25.0,Male,Home & Kitchen,$120.00,PayPal,05/08/2024,3.0
+TXN_10859,CUST_1243,29.0,M,Electronics,$299.00,Credit Card,2024-10-27,3.0
+TXN_10860,CUST_1144,25.0,Female,Electronics,$25.50,Cash on Delivery,2024-03-13,3.0
+TXN_10861,CUST_1070,29.0,M,Home & Kitchen,50.0,Credit Card,2024-10-08,1.0
+TXN_10862,CUST_1216,22.0,F, Clothing ,$25.50,Credit Card,2024-09-05,3.0
+TXN_10863,CUST_1044,25.0,F, Clothing ,$25.50,PayPal,16/02/2024,2.0
+TXN_10864,CUST_1131,,female,Electronics,$999.99,Credit Card,2024-04-30,
+TXN_10865,CUST_1035,22.0,Female,electronics,$999.99,Credit Card,01/08/2024,3.0
+TXN_10866,CUST_1069,34.0,Male,Electronics,$299.00,Debit Card,2024-08-26,4.0
+TXN_10867,CUST_1158,25.0,Female,Books,$999.99,PayPal,2024-02-25,3.0
+TXN_10868,CUST_1018,41.0,Male,Electronics,,PayPal,2024-12-15,1.0
+TXN_10869,CUST_1188,18.0,Female, Clothing ,$25.50,,16/04/2024,
+TXN_10870,CUST_1107,,Female,Electronics,$25.50,PayPal,11-14-2024,3.0
+TXN_10871,CUST_1181,25.0,Female,Home & Kitchen,$25.50,UPI,17/02/2024,3.0
+TXN_10872,CUST_1166,22.0,Male,electronics,$25.50,Credit Card,01/03/2024,4.0
+TXN_10873,CUST_1090,18.0,Male,Books,50.0,PayPal,12-02-2024,1.0
+TXN_10874,CUST_1201,22.0,Female,Books,$0.00,UPI,2024-01-26,4.0
+TXN_10875,CUST_1089,29.0,Male,electronics,$25.50,PayPal,2024-10-18,3.0
+TXN_10876,CUST_1018,25.0,female,Beauty & Care,$45.10,Debit Card,09-13-2024,3.0
+TXN_10877,CUST_1038,41.0,Male,,$299.00,PayPal,08/01/2024,1.0
+TXN_10878,CUST_1125,25.0,Male,Books,$120.00,Credit Card,2024-04-22,2.0
+TXN_10879,CUST_1194,22.0,Male,Books,$25.50,PayPal,Invalid Date,5.0
+TXN_10880,CUST_1172,29.0,Female,Electronics,$25.50,PayPal,09-09-2024,4.0
+TXN_10881,CUST_1140,34.0,Female, Clothing ,$25.50,UPI,2024-06-28,2.0
+TXN_10882,CUST_1241,22.0,Male,Electronics,$25.50,Credit Card,25/07/2024,1.0
+TXN_10883,CUST_1219,22.0,Male,Electronics,50.0,,29/10/2024,4.0
+TXN_10884,CUST_1125,18.0,Female,,$120.00,,06/05/2024,3.0
+TXN_10885,CUST_1057,34.0,Male,electronics,$120.00,Credit Card,25/02/2024,3.0
+TXN_10886,CUST_1147,34.0,Female,Home & Kitchen,,Credit Card,2024-08-01,3.0
+TXN_10887,CUST_1219,25.0,Female,Books,$15.75,UPI,14/01/2024,2.0
+TXN_10888,CUST_1199,41.0,Male,Books,$45.10,,28/01/2024,4.0
+TXN_10889,CUST_1060,41.0,Male,,$25.50,PayPal,03-18-2024,
+TXN_10890,CUST_1126,29.0,,Electronics,$120.00,Credit Card,08-03-2024,2.0
+TXN_10891,CUST_1104,41.0,Female,Electronics,$999.99,PayPal,2024-12-30,3.0
+TXN_10892,CUST_1166,22.0,Female, Clothing ,$25.50,Debit Card,02/06/2024,3.0
+TXN_10893,CUST_1000,18.0,Male,Electronics,$25.50,Credit Card,2024-01-14,3.0
+TXN_10894,CUST_1130,22.0,Female,Electronics,$15.75,Debit Card,05/07/2024,3.0
+TXN_10895,CUST_1204,18.0,Male, Clothing ,$0.00,Credit Card,11-07-2024,4.0
+TXN_10896,CUST_1091,29.0,Female,Home & Kitchen,50.0,Credit Card,2024-01-07,3.0
+TXN_10897,CUST_1189,60.0,, Clothing ,50.0,PayPal,03/01/2024,3.0
+TXN_10898,CUST_1248,18.0,Female,electronics,50.0,PayPal,2024-04-20,3.0
+TXN_10899,CUST_1190,18.0,Male,Home & Kitchen,$25.50,Credit Card,2024-08-25,2.0
+TXN_10900,CUST_1112,25.0,Male,Electronics,$120.00,PayPal,28/12/2024,1.0
+TXN_10901,CUST_1152,60.0,Female,Electronics,$25.50,Credit Card,26/08/2024,4.0
+TXN_10902,CUST_1055,25.0,Male,Home & Kitchen,$25.50,Credit Card,,2.0
+TXN_10903,CUST_1160,29.0,Male,Home & Kitchen,,Credit Card,20/10/2024,4.0
+TXN_10904,CUST_1165,18.0,Female,Home & Kitchen,$999.99,,2024-08-14,3.0
+TXN_10905,CUST_1116,18.0,Female,Electronics,$15.75,PayPal,15/01/2024,3.0
+TXN_10906,CUST_1133,-5.0,Male,Books,$120.00,PayPal,2024-07-10,3.0
+TXN_10907,CUST_1057,,female,Home & Kitchen,$120.00,PayPal,,3.0
+TXN_10908,CUST_1043,18.0,Male, Clothing ,$120.00,,28/01/2024,2.0
+TXN_10909,CUST_1172,,,Home & Kitchen,$25.50,Credit Card,07-20-2024,3.0
+TXN_10910,CUST_1159,29.0,Male,Books,$25.50,Debit Card,2024-02-08,4.0
+TXN_10911,CUST_1172,41.0,female, Clothing ,$15.75,Debit Card,29/09/2024,4.0
+TXN_10912,CUST_1060,25.0,Female, Clothing ,$15.75,Debit Card,18/08/2024,3.0
+TXN_10913,CUST_1046,29.0,F,,50.0,Credit Card,03-26-2024,3.0
+TXN_10914,CUST_1148,25.0,,Home & Kitchen,50.0,Debit Card,2024-05-05,2.0
+TXN_10915,CUST_1079,34.0,Male, Clothing ,$45.10,Credit Card,2024-10-26,2.0
+TXN_10916,CUST_1117,18.0,,Home & Kitchen,$25.50,PayPal,,1.0
+TXN_10917,CUST_1212,18.0,Female, Clothing ,$120.00,Debit Card,24/05/2024,5.0
+TXN_10918,CUST_1202,25.0,Female,Electronics,$120.00,Credit Card,13/01/2024,2.0
+TXN_10919,CUST_1228,34.0,Male, Clothing ,$15.75,Cash on Delivery,2024-07-30,2.0
+TXN_10920,CUST_1163,22.0,Female,Beauty & Care,,Credit Card,,3.0
+TXN_10921,CUST_1226,34.0,Male,Beauty & Care,$120.00,Cash on Delivery,2024-03-08,2.0
+TXN_10922,CUST_1146,,Female,electronics,$299.00,PayPal,03-07-2024,4.0
+TXN_10923,CUST_1019,18.0,Female, Clothing ,$299.00,Credit Card,08-20-2024,1.0
+TXN_10924,CUST_1184,34.0,M,Electronics,$120.00,Credit Card,2024-04-18,2.0
+TXN_10925,CUST_1145,25.0,F,,$120.00,,05-25-2024,4.0
+TXN_10926,CUST_1046,41.0,Female,,50.0,Credit Card,2024-04-20,3.0
+TXN_10927,CUST_1232,22.0,Male,Home & Kitchen,,Credit Card,2024-08-15,4.0
+TXN_10928,CUST_1048,34.0,Male,Books,$25.50,Credit Card,04-20-2024,3.0
+TXN_10929,CUST_1013,41.0,Male,Home & Kitchen,$15.75,Debit Card,Invalid Date,3.0
+TXN_10930,CUST_1142,60.0,Male, Clothing ,$120.00,PayPal,20/04/2024,4.0
+TXN_10931,CUST_1158,34.0,Male,Electronics,$15.75,Credit Card,20/09/2024,2.0
+TXN_10932,CUST_1000,25.0,Male, Clothing ,50.0,Credit Card,2024-08-23,3.0
+TXN_10933,CUST_1116,29.0,,Home & Kitchen,$999.99,Credit Card,2024-03-23,3.0
+TXN_10934,CUST_1053,41.0,Female,Home & Kitchen,$299.00,Credit Card,2024-02-11,3.0
+TXN_10935,CUST_1117,29.0,Male, Clothing ,$299.00,PayPal,2024-04-10,4.0
+TXN_10936,CUST_1002,18.0,Female,Beauty & Care,$299.00,Debit Card,2024-01-06,5.0
+TXN_10937,CUST_1143,60.0,Male,Electronics,$25.50,Credit Card,28/06/2024,
+TXN_10938,CUST_1214,34.0,Female, Clothing ,$15.75,PayPal,2024-10-08,4.0
+TXN_10939,CUST_1184,34.0,Female,Home & Kitchen,$25.50,PayPal,2024-11-15,3.0
+TXN_10940,CUST_1202,22.0,Female,Home & Kitchen,50.0,,13/08/2024,2.0
+TXN_10941,CUST_1011,34.0,Female,Home & Kitchen,50.0,,11-10-2024,3.0
+TXN_10942,CUST_1073,25.0,,electronics,50.0,Cash on Delivery,2024-12-30,3.0
+TXN_10943,CUST_1223,34.0,female,Electronics,50.0,Credit Card,,3.0
+TXN_10944,CUST_1015,18.0,Female,Home & Kitchen,,Credit Card,Invalid Date,5.0
+TXN_10945,CUST_1199,34.0,Female, Clothing ,$25.50,Credit Card,2024-05-29,3.0
+TXN_10946,CUST_1101,150.0,Female,Electronics,$15.75,Credit Card,10-03-2024,3.0
+TXN_10947,CUST_1203,18.0,Male,Home & Kitchen,$120.00,PayPal,16/07/2024,3.0
+TXN_10948,CUST_1151,,Female, Clothing ,$25.50,Cash on Delivery,10/03/2024,4.0
+TXN_10949,CUST_1155,25.0,Male,Home & Kitchen,$25.50,UPI,21/04/2024,4.0
+TXN_10950,CUST_1116,52.0,Female,Books,$45.10,Cash on Delivery,04/01/2024,4.0
+TXN_10951,CUST_1007,41.0,Female,Electronics,$299.00,PayPal,15/12/2024,3.0
+TXN_10952,CUST_1121,29.0,Male,Electronics,$45.10,Debit Card,26/11/2024,4.0
+TXN_10953,CUST_1091,34.0,,Home & Kitchen,,Credit Card,13/11/2024,1.0
+TXN_10954,CUST_1163,52.0,female,Home & Kitchen,$120.00,Credit Card,12-15-2024,5.0
+TXN_10955,CUST_1089,25.0,Female,Home & Kitchen,$120.00,Debit Card,04/04/2024,3.0
+TXN_10956,CUST_1135,25.0,Female,Books,$15.75,Credit Card,05-31-2024,3.0
+TXN_10957,CUST_1185,34.0,F,Books,50.0,PayPal,2024-11-06,3.0
+TXN_10958,CUST_1059,41.0,Male,,50.0,Credit Card,2024-05-16,4.0
+TXN_10959,CUST_1177,34.0,M, Clothing ,$120.00,Debit Card,09-03-2024,1.0
+TXN_10960,CUST_1027,41.0,Male, Clothing ,$999.99,Cash on Delivery,2024-08-30,5.0
+TXN_10961,CUST_1219,25.0,M, Clothing ,$999.99,Credit Card,2024-01-31,3.0
+TXN_10962,CUST_1100,41.0,Male,Electronics,$25.50,Cash on Delivery,2024-02-09,3.0
+TXN_10963,CUST_1040,18.0,F, Clothing ,50.0,Credit Card,2024-08-16,2.0
+TXN_10964,CUST_1227,29.0,MALE,electronics,$999.99,PayPal,,3.0
+TXN_10965,CUST_1191,18.0,Male,Beauty & Care,$999.99,Debit Card,10/08/2024,3.0
+TXN_10966,CUST_1154,25.0,Female, Clothing ,$120.00,Debit Card,,3.0
+TXN_10967,CUST_1245,25.0,, Clothing ,$15.75,,17/11/2024,4.0
+TXN_10968,CUST_1190,25.0,Female, Clothing ,$25.50,Credit Card,07/08/2024,3.0
+TXN_10969,CUST_1144,34.0,F,Electronics,$120.00,Debit Card,2024-03-15,
+TXN_10970,CUST_1200,25.0,Female,Electronics,$15.75,Debit Card,04/01/2024,3.0
+TXN_10971,CUST_1160,25.0,Male, Clothing ,$999.99,UPI,2024-11-30,4.0
+TXN_10972,CUST_1244,22.0,Male,Electronics,$120.00,Credit Card,Invalid Date,2.0
+TXN_10973,CUST_1211,25.0,Male,Home & Kitchen,$15.75,Cash on Delivery,04-27-2024,3.0
+TXN_10974,CUST_1204,22.0,M,Books,$999.99,PayPal,2024-04-03,3.0
+TXN_10975,CUST_1219,18.0,Female,Books,$15.75,Credit Card,,3.0
+TXN_10976,CUST_1239,29.0,Female,Home & Kitchen,$15.75,PayPal,07-12-2024,5.0
+TXN_10977,CUST_1156,34.0,Female,Electronics,-15.00,Credit Card,11-30-2024,1.0
+TXN_10978,CUST_1140,29.0,Female,Books,50.0,PayPal,2024-07-21,1.0
+TXN_10979,CUST_1045,25.0,F,Books,$25.50,UPI,26/01/2024,5.0
+TXN_10980,CUST_1034,25.0,,Electronics,$120.00,PayPal,21/06/2024,2.0
+TXN_10981,CUST_1133,41.0,Female,Home & Kitchen,50.0,Debit Card,2024-10-26,4.0
+TXN_10982,CUST_1081,29.0,F,electronics,$999.99,PayPal,2024-05-12,3.0
+TXN_10983,CUST_1114,25.0,M,Books,50.0,Credit Card,11-21-2024,4.0
+TXN_10984,CUST_1196,18.0,Female,,$120.00,Credit Card,2024-04-27,2.0
+TXN_10985,CUST_1046,25.0,,Electronics,$25.50,PayPal,19/11/2024,2.0
+TXN_10986,CUST_1152,25.0,Male,Books,50.0,Credit Card,,3.0
+TXN_10987,CUST_1193,25.0,Male,Home & Kitchen,$120.00,Credit Card,Invalid Date,10.0
+TXN_10988,CUST_1009,29.0,F,,$15.75,PayPal,2024-08-12,3.0
+TXN_10989,CUST_1055,29.0,Female, Clothing ,$25.50,Credit Card,Invalid Date,3.0
+TXN_10990,CUST_1029,29.0,F,Books,$999.99,Credit Card,2024-04-22,4.0
+TXN_10991,CUST_1241,34.0,female,Electronics,$45.10,PayPal,2024-05-19,10.0
+TXN_10992,CUST_1108,41.0,Male,electronics,$25.50,Credit Card,16/02/2024,4.0
+TXN_10993,CUST_1004,34.0,female,Electronics,50.0,UPI,01/01/2024,
+TXN_10994,CUST_1118,,Female,,$25.50,UPI,30/03/2024,1.0
+TXN_10995,CUST_1247,18.0,Female,Books,-15.00,Debit Card,21/05/2024,2.0
+TXN_10996,CUST_1032,22.0,Female,Books,$999.99,Credit Card,2024-11-15,4.0
+TXN_10997,CUST_1117,18.0,MALE,Beauty & Care,50.0,Cash on Delivery,2024-02-07,4.0
+TXN_10998,CUST_1064,29.0,Male,Electronics,50.0,Cash on Delivery,19/10/2024,3.0
+TXN_10999,CUST_1145,52.0,Female, Clothing ,$299.00,Cash on Delivery,05-18-2024,2.0
+TXN_10521,CUST_1152,25.0,Male, Clothing ,$999.99,UPI,21/12/2024,4.0
+TXN_10737,CUST_1236,25.0,Female,Electronics,$15.75,PayPal,2024-11-28,3.0
+TXN_10740,CUST_1119,18.0,Male, Clothing ,$120.00,PayPal,15/09/2024,4.0
+TXN_10660,CUST_1032,34.0,Female,Books,$120.00,PayPal,2024-06-09,2.0
+TXN_10411,CUST_1032,22.0,Male, Clothing ,$25.50,UPI,2024-06-26,4.0
+TXN_10678,CUST_1247,,Female,Beauty & Care,$25.50,Debit Card,01-10-2024,2.0
+TXN_10626,CUST_1230,22.0,Female,electronics,$45.10,PayPal,2024-09-17,10.0
+TXN_10513,CUST_1175,29.0,Female, Clothing ,$120.00,PayPal,2024-05-17,3.0
+TXN_10859,CUST_1243,29.0,M,Electronics,$299.00,Credit Card,06-20-2024,3.0
+TXN_10136,CUST_1135,25.0,Male,Home & Kitchen,$25.50,PayPal,13/01/2024,2.0
+TXN_10811,CUST_1052,25.0,Male,Home & Kitchen,$299.00,PayPal,16/06/2024,3.0
+TXN_10076,CUST_1187,52.0,Female,Electronics,50.0,PayPal,2024-05-09,4.0
+TXN_10636,CUST_1143,29.0,Male, Clothing ,$120.00,Debit Card,2024-03-24,3.0
+TXN_10973,CUST_1211,25.0,Male,Home & Kitchen,$15.75,Cash on Delivery,2024-11-16,3.0
+TXN_10938,CUST_1214,34.0,Female, Clothing ,$15.75,PayPal,2024-11-14,4.0
+TXN_10899,CUST_1190,18.0,Male,Home & Kitchen,$25.50,Credit Card,04-10-2024,2.0
+TXN_10280,CUST_1080,34.0,Male,,$25.50,Credit Card,11-24-2024,1.0
+TXN_10883,CUST_1219,22.0,Male,Electronics,50.0,,09-29-2024,4.0
+TXN_10761,CUST_1150,25.0,Male,Home & Kitchen,$120.00,Credit Card,09-21-2024,4.0
+TXN_10319,CUST_1200,25.0,Male,Electronics,$25.50,PayPal,07/02/2024,4.0
+TXN_10549,CUST_1185,18.0,Male,,,Credit Card,04-03-2024,3.0
+TXN_10174,CUST_1174,29.0,Female,Electronics,$15.75,Credit Card,04/04/2024,4.0
+TXN_10371,CUST_1008,22.0,,Books,50.0,Debit Card,31/10/2024,3.0
+TXN_10527,CUST_1056,29.0,Female,Home & Kitchen,50.0,Debit Card,09/03/2024,3.0
+TXN_10210,CUST_1070,22.0,M,Electronics,$25.50,Debit Card,2024-11-13,
